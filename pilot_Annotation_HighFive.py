@@ -51,7 +51,7 @@ ratings_raw = np.array([
     [1, 1, 1, 1, 1],  # "Pa ipak, bilo bi pogrešno reći kako na film ne vodi u istraživanje i ubojičinog načina razmišljanja."
     [1, 1, 1, 1, 1],  # "No, u suštini, odgovori koje tražimo fokusiraju se više na društveni utjecaj, a ne na samog ubojicu i njegove postupke."
     [1, 1, 0, 1, 0],  # "Prema njemu nemamo nikakvo zanimanje jer on ni po čemu nije poseban."
-    [0, 0, 1, 0, 0]   # "I zato mislim kako je pun pogodak što film uopće nije zainteresiran za ispitivanje onoga što tjera ubojicu na ono što radi."
+    [0, 0, 1, 0, 0],  # "I zato mislim kako je pun pogodak što film uopće nije zainteresiran za ispitivanje onoga što tjera ubojicu na ono što radi."
     [1, 1, 0, 1, 0], # "Jer Alcala nije izmicao pravdi zato što je nešto posebno inteligentan i briljantan, već jer je tadašnje društvo svojim ponašanjem neposredno u mnogočemu i bilo na njegovoj strani."
     [1, 1, 0, 1, 1], # "Women of the Hour je film koji se u velikom dijelu oslanja na neverbalne znakove."
     [1, 1, 2, 1, 2], # "Pravo je pitanje samo hoće li to biti dovoljno da društvo napokon prepozna upravo kroz običan pogled tko su zapravo tihe “serijske ubojice” ili će odmahnuti glavom."
@@ -101,7 +101,7 @@ ratings_raw = np.array([
     [0, 0, 0, 0, 0], # "Kao netko tko je pogledao baš sve njegove filmove, ne mogu se načuditi koliko se podcjenjivački gleda na njegovu dosadašnju karijeru."
     [0, 0, 1, 0, 0], # "No, svatko tko je gledao film “Call Me by Your Name”, posebice zadnjih desetak minuta, nije mogao ne primijetiti koliki se glumački potencijal krije u njemu."
     [0, 0, 1, 0, 0], # "Da može odigrati i drugačije uloge, van nekakvih klišej uloga teenagerskog ljepotana, dokazao je i u filmu “Bones and All”, a bogami i u ovom nastavku filma “Dune” kojeg doslovno nosi na svojim leđima."
-    [1, 1, 0, 1, 0]  # "Način na koji gledamo njegov lik u velikoj mjeri oslikava način na koji gledamo svijet Dine."
+    [1, 1, 0, 1, 0],  # "Način na koji gledamo njegov lik u velikoj mjeri oslikava način na koji gledamo svijet Dine."
     [1, 1, 0, 1, 0],  # "Naime, prvi film i jest bio “nježni uvod” u sve ono što nas očekuje."
     [1, 1, 0, 1, 0],  # "Na isti smo taj način (do)živjeli i Paula, jer smo iznad njegovih ramena, metaforički rečeno, i otkrivali planet."
     [0, 0, 1, 1, 1],  # "Drugi dio, pak, puno je mišićaviji, snažniji, moćniji, jednako kao i Paul."
@@ -177,9 +177,9 @@ ratings_raw = np.array([
     [1, 1, 0, 1, 1], # "Naravno, redateljska gromada je govorila u metaforičkom smislu, misleći na pogled na teme koje neki filmovi obrađuju."
     [1, 2, 2, 2, 2], # "I zato, iskreno govoreći, teško bih se mogao zamisliti ne samo u odnosu, nego čak i u prijateljstvu s nekim tko, primjerice, ne cijeni film kao što je ovaj."
     [0, 0, 1, 0, 0], # "Jer, ovo je film koji nas tjera na razmišljanje o životu i koji nas podsjeća zašto volimo filmove i koliko moćna i snažna umjetnost može biti."
-    [0, 0, 1, 0, 0]  # "Ovaj film je razlog zbog kojeg postoje kina i baš zato ga trebate živjeti i osjećati, i to kroz magične pokretne slike koje nikada neće biti izgubljene u pijesku vremena."
+    [0, 0, 1, 0, 0], # "Ovaj film je razlog zbog kojeg postoje kina i baš zato ga trebate živjeti i osjećati, i to kroz magične pokretne slike koje nikada neće biti izgubljene u pijesku vremena."
 ])
-ratings, _ = irr.aggregate_raters(ratings_new)
+ratings, _ = irr.aggregate_raters(ratings_raw)
 kappa = irr.fleiss_kappa(ratings, method='fleiss')
 print("Aggregated Ratings Matrix:\n", ratings)
 print("Fleiss' Kappa: {kappa:.4f}")
