@@ -1,0 +1,46 @@
+import pandas as pd
+
+df_test_1 = pd.read_csv('Test-1.csv')  
+df_test_2 = pd.read_csv('Test-2.csv')
+df_test_3 = pd.read_csv('Test-3.csv')
+
+possible_sentence_columns = ['sentence', 'text', 'review', 'content']
+sentence_column = None
+for col in possible_sentence_columns:
+    if col in df_test_1.columns:
+        sentence_column = col
+        break
+if sentence_column is None:
+    raise ValueError(f"No sentence column found. Columns are: {list(df_test_1.columns)}")
+
+print(f"Using '{sentence_column}' as the sentence column.")
+
+def calculate_statistics(data):
+    stats = {}
+    stats['label_distribution'] = data['label'].value_counts().to_dict()
+    data['word_count'] = data[sentence_column].apply(lambda x: len(str(x).split()))
+    stats['average_length'] = data['word_count'].mean()
+    shortest_row = data.loc[data['word_count'].idxmin()]
+    longest_row = data.loc[data['word_count'].idxmax()]
+    stats['shortest_sentence'] = (shortest_row[sentence_column], shortest_row['word_count'])
+    stats['longest_sentence'] = (longest_row[sentence_column], longest_row['word_count'])
+    return stats
+
+test_stats = {}
+
+for i, df_test in enumerate([df_test_1, df_test_2, df_test_3], 1):
+    test_stats[f'Test-{i}'] = calculate_statistics(df_test)
+
+with open('dataset.md', 'w', encoding='utf-8') as f:
+    f.write("# Dataset Statistics for Test Sets\n\n")
+    for test_name, stats in test_stats.items():
+        f.write(f"## {test_name}\n")
+        f.write("#### Label Distribution:\n")
+        for label, count in stats['label_distribution'].items():
+            f.write(f"- {label}: {count}\n")
+        f.write(f"- Average number of words per sentence: {stats['average_length']:.2f}\n")
+        f.write(f"- Smallest sentence ({stats['shortest_sentence'][1]} words): \"{stats['shortest_sentence'][0]}\"\n")
+        f.write(f"- Largest sentence ({stats['longest_sentence'][1]} words): \"{stats['longest_sentence'][0]}\"\n")
+        f.write("\n---\n\n")
+
+print("Done! All results saved in dataset.md")
