@@ -14,7 +14,7 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 <p>The Test set statistics is as followes: </p>
 <p> - 653 total sentences</p>
 <p> - Label Distribution: </p>
-<p>     - Label 1: 58</p>
+<p><t>- Label 1: 58</t></p>
 <p>     - Label 2: 379</p>
 <p>     - Label 3: 165</p>
 <p>     - Label 4: 49</p>
