@@ -11,7 +11,7 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 <p>We have created a new CSV file that contains only the two colums of our corpus labeled "sentence" and "label". The name of this file is Movies - Final Annotation - test.</p>
 <p>We have used a code to split our CSV file into two parts, a Train set and a Test set. The Train set includes 75 to 80% of the original file and the Test set includes 25 to 30% of the original CSV files. Both the Train and Test set have been saved as two separates CSV files.</p>
 <p>We conducted a test on the Test set in which we calculated the average number of words per sentence, the largest and the smalest sentece. We also calculated the number of sentences per label in the Test set.</p>
-<p>The Test set statistics is as followes: </p>
+<p>The Test set statistics is as follows: </p>
 <p> - 653 total sentences</p>
 <p>Label Distribution: </p>
 <p>     - Label 1: 58</p>
