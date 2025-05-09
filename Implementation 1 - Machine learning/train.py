@@ -8,7 +8,7 @@ for filename in filenames:
     with open(filename, 'r', encoding='utf-8') as file:
         tsv_reader = csv.reader(file, delimiter='\t')
         for row in tsv_reader:
-            TRAIN.add(tuple(row))  # Convert list to tuple for set compatibility
+            TRAIN.add(tuple(row))  
 
 with open('Combined_Train.tsv', 'w', encoding='utf-8', newline='') as outfile:
     tsv_writer = csv.writer(outfile, delimiter='\t')
