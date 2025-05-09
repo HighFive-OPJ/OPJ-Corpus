@@ -29,33 +29,23 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 <p> These are the results:</p>
 <p> Train1: </p>
 <p>    - Test 1:</p>
-<p>      - Precision: 0.4308</p>
-<p>      - Recall: 0.5561</p>
-<p>      - F1-Score: 0.4724</p>
-<p>      - Accuracy: 0.5561</p>
-<p>    - Test 2:</p>
-<p>      - Precision: 0.6793</p>
-<p>      - Recall: 0.6620</p>
-<p>      - F1-Score: 0.5405</p>
-<p>      - Accuracy: 0.6620</p>
+<p>      - Precision: 0.5315</p>
+<p>      - Recall: 0.5402</p>
+<p>      - F1-Score: 0.5353</p>
+<p>      - Accuracy: 0.5402</p>
 <p>    - Test 3:</p>
-<p>      - Precision: 0.5154</p>
-<p>      - Recall: 0.6438</p>
-<p>      - F1-Score: 0.5563</p>
-<p>      - Accuracy: 0.6438</p>
-<p> Train2: </p>
+<p>      - Precision: 0.5301</p>
+<p>      - Recall: 0.5320</p>
+<p>      - F1-Score: 0.5303</p>
+<p>      - Accuracy: 0.5320</p>
+<p> Train3: </p>
 <p>    - Test 1:</p>
-<p>      - Precision: 0.3430</p>
-<p>      - Recall: 0.5816</p>
-<p>      - F1-Score: 0.4315</p>
-<p>      - Accuracy: 0.5861</p>
-<p>    - Test 2:</p>
-<p>      - Precision: 0.5772</p>
-<p>      - Recall: 0.6479</p>
-<p>      - F1-Score: 0.6100</p>
-<p>      - Accuracy: 0.6479</p>
+<p>      - Precision: 0.3086</p>
+<p>      - Recall: 0.5556</p>
+<p>      - F1-Score: 0.3968</p>
+<p>      - Accuracy: 0.5556</p>
 <p>    - Test 3:</p>
-<p>      - Precision: 0.5219</p>
-<p>      - Recall: 0.6309</p>
-<p>      - F1-Score: 0.5392</p>
-<p>      - Accuracy: 0.6309</p>
+<p>      - Precision: 0.4862</p>
+<p>      - Recall: 0.4912</p>
+<p>      - F1-Score: 0.3570</p>
+<p>      - Accuracy: 0.4912</p>
