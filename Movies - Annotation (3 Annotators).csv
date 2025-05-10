@@ -241,7 +241,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 2,22,2264,Trilogija koja će po svemu sudeći postaviti nove granice kvalitete filmova znanstvene fantastike.,0,0,0
 2,22,2265,Dune 2 je film koji nas podsjeća zašto volimo filmove.,0,0,0
 2,22,2266,To je film kojeg ću „voljeti dok god dišem“.,0,0,0
-3,31,311,"Pobješnjeli Max: Divlja cesta (Mad Max: Fury Road, 2015) i danas mi je u pamćenju.",0,0,0
+3,31,311,"Pobješnjeli Max: Divlja cesta (Mad Max: Fury Road, 2015) i danas mi je u pamćenju.",2,0,0
 3,31,312,"Do tog filma nisam bila pogledala ni jedan drugi film iz svijeta Pobješnjelog Maxa, ali Charlize Theron bila je dovoljan poticaj da me namami u kino.",0,0,0
 3,31,313,"Iako je jedva izustila i riječ, ludilo postapokaliptičnog svijeta iznjedrilo je od Imperator Furiose očaravajuću i zastrašujuću akcijsku junakinju.",0,0,0
 3,31,314,"Furiosa: Pobješnjeli Max saga (Furiosa: A Mad Max Saga, 2024) živi na lovorikama okorjelog lika kojeg je redatelj i scenarist George Miller uspio stvoriti uz pomoć Theron.",2,2,2
@@ -265,7 +265,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 3,31,3122,Ono što je zanimljivo u posljednja dva filma Sage Pobješnjelog Maxa je sraz između ‘muškog’ i ‘ženskog’ svijeta.,2,0,2
 3,31,3123,"Agresije, potrebe za dominacijom i taštine ne nedostaje, ali ono za što se Furiosa trudi izboriti je mir, blagostanje i zajednica.",2,0,2
 3,31,3124,"Ne treba se daleko zagrebati ispod površine da bi se razotkrile teme o ekologiji, izrabljivanju, kao i vrijednosti žena.",2,2,2
-3,31,3125,"Iako se nikad njima ne bavi izričito, Miller nedvojbeno prikazuje kamo vodi egoistični kapitalizam i koje vrijednosti su potrebne da mu se suprotstave.",2,2,2
+3,31,3125,"Iako se nikad njima ne bavi izričito, Miller nedvojbeno prikazuje kamo vodi egoistični kapitalizam i koje vrijednosti su potrebne da mu se suprotstave.",2,2,0
 3,31,3126,Furiosa: Pobješnjeli Max saga nažalost nije jednako dobar kao njegov prethodnik.,1,1,1
 3,31,3127,Postoji i strah od franšizacije što znači dosadnu reciklažu dosad uzbudljivog materijala.,1,1,1
 3,31,3128,Zasad je još uvijek jedan od zanimljivijih filmova na kino repertoaru i vrijedi ga doživjeti na velikom platnu.,0,0,0
@@ -274,7 +274,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 3,32,323,"Nije za baciti, ali daleko od sjajnog.",2,1,2
 3,32,324,"Prije dvije godine u ovo je vrijeme Tom Cruise već “spasio kinematografiju” nastavkom “Top Guna”, a dovoljno je reći “Barbenheimer” da se čovjek sjeti gomile novca koja je okrenuta prošloga ljeta u dvoranama diljem svijeta.",0,0,0
 3,32,325,"Vjerojatno ste primijetili da su svi filmovi s najvećom zaradom ove godine nastavci ili novi izdanci prethodno postojećih franšiza, što svakako podupire tezu o manjku novih ideja u Hollywoodu, ali ukazuje i na to da publika i dalje najviše voli ono što je provjereno i od ranije poznato",1,2,2
-3,32,326,"Jasno je, dakle, da se mnogo očekivalo od “Furiose” najnovijeg izdanka sage o Mad Maxu koji donosi tzv. origin story glavne protagonistice “Mad Max: Fury Road” kojeg su kritičari obožavali, a Akademija ga je zasipala cijelim slapom Oscara u tehničkim kategorijama.",2,2,2
+3,32,326,"Jasno je, dakle, da se mnogo očekivalo od “Furiose” najnovijeg izdanka sage o Mad Maxu koji donosi tzv. origin story glavne protagonistice “Mad Max: Fury Road” kojeg su kritičari obožavali, a Akademija ga je zasipala cijelim slapom Oscara u tehničkim kategorijama.",2,0,2
 3,32,327,Termin svjetske premijere “Furiose” poklopio se s Filmskim festivalom u Cannesu gdje je novi ep Georgea Millera prikazan uz ovacije i sjajne kritike,0,0,2
 3,32,328,U kina je stigla za vrijeme američkog Memorial Weekenda koji je inače jedan od najprivlačnijih termina za rollout novih filmova u cijeloj godini,0,2,0
 3,32,329,"I što se dogodilo? “Furiosa” jest zasjela na vrh box officea, ali ovo je svakako jedna od onih situacija u kojima se brda tresu, a rodi se sićušni sivi glodavac.",2,1,1
@@ -283,8 +283,8 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 3,32,3212,"Prije nego se pitamo gdje je toliko zapelo, mora nam biti jasno da unatoč svojoj naknadnoj popularnosti i hvalospjevima, ni “Mad Max: Fury Road” nije bio megahit na blagajnama, već da se po ukupnoj zaradi nije našao među 20 filmova s najvećom zaradom te 2015. godine.",1,2,2
 3,32,3213,Druga otegotna okolnost leži u činjenici da prednastavci s izmijenjenom glumačkom postavom rijetko kada postižu jednaki uspjeh kao filmovi koji su im prethodili.,1,1,1
 3,32,3214,"Treća točka je možda upitna, ali ako se naslove iz Millerovog serijala smatra filmovima za mušku publiku, i to za one u već ozbiljnim godinama koji su odrasli uz prve nastavke australske franšize, onda je odluka da se snimi film s fokusom na ženskog lika već sama po sebi riskantna jer to je generacija u kojoj ima mnogo onih koji se protive “feminizaciji” Hollywooda i maštaju o dobrim, starim vremenima u testosteronskim osamdesetima kad su Sly i Arnie vladali ekranima.",2,1,1
-3,32,3215,"No, je li ovo slučaj u kojemu bismo trebali žaliti što izvrstan film nije dobio svoj zasluženi dio kolača u prvom vikendu prikazivanja.",2,2,2
-3,32,3216,Ili da se koncentriramo na ono bitno u tom pitanju: Je li “Furiosa” izvrstan film.,2,2,2
+3,32,3215,"No, je li ovo slučaj u kojemu bismo trebali žaliti što izvrstan film nije dobio svoj zasluženi dio kolača u prvom vikendu prikazivanja.",2,2,1
+3,32,3216,Ili da se koncentriramo na ono bitno u tom pitanju: Je li “Furiosa” izvrstan film.,2,2,1
 3,32,3217,Odgovor na to pitanje nije jednoznačan.,2,2,2
 3,32,3218,"Prije svega, novo poglavlje sage ima gotovo sve ono što je njegove prethodnike, a pogotovo “Fury Road” činilo izvrsnima.",0,0,0
 3,32,3219,"To je prvenstveno briljanta Millerova vizija, brutalna scenografija s nevjerojatnim vozilima, ikonična postapokaliptična kostimografija, sjajan zvuk i montaža… uglavnom sve one stvari za koje je prethodnik osvojio Oscare i to je gotovo dovoljno da bi ga se proglasilo izvrsnim.",0,0,0
@@ -299,19 +299,19 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 3,32,3228,Ali nije.,2,2,2
 3,32,3229,"Miller i dalje radi sjajan posao u režiranju akcijskih sekvenci, pogotovo jedne dugačke koja se odvija na Fury Roadu, pa na taj način ponovo poteže za materijalom koji je prethodni naslov učinio toliko dobrim.",0,0,0
 3,32,3230,"No, na kraju dana, kad sve to zbrojimo i oduzmemo, “Furiosu” nećemo pamtiti kao jedan od boljih izdanaka sage, a sudeći po zaradi, taj narativni put teško da ćemo dalje pratiti.",1,1,1
-3,32,3231,"Ocjena je, dakle, 3,6 rendgena – not great, not terrible – ili rječnikom same franšize, tj. “Fury Roada”: “Mediocre!”",2,2,2
+3,32,3231,"Ocjena je, dakle, 3,6 rendgena – not great, not terrible – ili rječnikom same franšize, tj. “Fury Roada”: “Mediocre!”",2,1,2
 3,33,331,"Furiosa: Pobješnjeli Max saga, novi je film redatelja Georgea Millera.",2,2,2
 3,33,332,"Kao što mu ime govori, smješten je u svijet pobješnjelog Maxa.",2,2,2
 3,33,333,"Riječ je o prequelu filma Pobješnjeli Max: Divlja cesta, koji je izašao gotovo 10 godina ranije, 2015. godine.",2,2,2
 3,33,334,"Miller nam je već tada najavio kako želi napraviti film koji će govoriti o liku kojeg je tada glumila Charlize Theron, a u ovom filmu Anya Taylor-Joy.",2,2,2
 3,33,335,Miller je još jednom pokazao kako je odličan redatelj koji nije zaboravio zašto su dosadašnji Mad Max filmovi bili voljeni i popularni.,0,0,0
 3,33,336,"Furiosa je zaista odličan prequel film u smislu da nam je dala pozadinsku priču naslovnog lika, ali da nije poništila ništa od onoga što vidimo u Divljoj cesti.",0,0,0
-3,33,337,I sama akcija kao i vizualni identitet filma u potpunosti se uklapaju u svijet kojeg smo vidjeli u prethodnom filmu.,0,0,0
+3,33,337,I sama akcija kao i vizualni identitet filma u potpunosti se uklapaju u svijet kojeg smo vidjeli u prethodnom filmu.,2,0,0
 3,33,338,"Ali spektakl je sveukupno ipak umanjen, što zapravo ima smisla za priču.",2,2,2
 3,33,339,"Nažalost, to često nije slučaj s prequelima, ali Miller je posao odradio baš kako treba.",2,0,0
 3,33,3310,"Iako, ako uspoređujemo ta dva filma (a svi ćemo ih sigurno uspoređivati), rekao bih kako je Divlja cesta ipak ljepši film.",2,0,0
 3,33,3311,"No to se odnosi na nekoliko detalja, to jest, nekoliko scena u Furiosi.",2,2,2
-3,33,3312,"Naime, pogotovo na početku filma, dobivamo nekoliko scena u kojima je CGI vrlo očit.",1,1,1
+3,33,3312,"Naime, pogotovo na početku filma, dobivamo nekoliko scena u kojima je CGI vrlo očit.",1,1,2
 3,33,3313,Bilo da je riječ o kompjuterski napravljenoj pozadini ili npr. efektu vatre.,2,2,2
 3,33,3314,"To je nešto što me na trenutke izbacivalo iz filma, ali se nije događalo prečesto.",1,1,1
 3,33,3315,"Što se tiče samog početka filma, treba naglasiti kako kroz njegov veliki dio uopće ne vidimo Anyu Taylor-Joy.",2,2,2
@@ -321,12 +321,12 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 3,33,3319,Lik Furiose u ovom filmu vrlo je sličan Pobješnjelom Maxu u Divljoj cesti.,2,2,2
 3,33,3320,"Ona ne govori mnogo, već nam sve pokazuje kroz svoja djela i poglede.",2,2,2
 3,33,3321,I u svakom trenutku znamo što ona kroz njih želi reći.,0,2,0
-3,33,3322,Sve nam je jasno.,0,0,0
+3,33,3322,Sve nam je jasno.,2,0,0
 3,33,3323,"Osim toga, prilično sam siguran kako originalni “pobješnjeli Max” u ovom filmu ima jedan cameo od nekoliko sekundi.",2,2,2
 3,33,3324,"Ali ga vidimo s leđa, zajedno s njegovim autom pa ne možemo potvrditi kako je to stvarno on.",2,2,2
 3,33,3325,"Budući da je riječ o prequel filmu, još poneki likovi se ponavljaju.",2,2,2
 3,33,3326,"No oni većinom nisu nositelji radnje, s izuzetkom same Furiose.",2,2,2
-3,33,3327,Tako da se ne može reći kako ovaj film počiva isključivo na tome da iskorištava uspjeh Divlje ceste.,2,2,2
+3,33,3327,Tako da se ne može reći kako ovaj film počiva isključivo na tome da iskorištava uspjeh Divlje ceste.,2,2,1
 3,33,3328,Furiosa se doista može pogledati bez da znate išta o Divljoj cesti.,2,0,2
 3,33,3329,"Ona je, na neki način, umanjena verzija Divlje ceste.",2,2,2
 3,33,3330,Jer ima malo manje spektakla i malo manje akcije.,2,2,2
@@ -344,11 +344,11 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 3,33,3342,Stoga se ni cijeli film ne čini kao kopija Divlje ceste već kao dostojan prequel.,0,0,0
 3,33,3343,"Dapače, Divlja cesta je u neku ruku i “heist film” dok je Furiosa priča o osveti.",2,2,2
 3,33,3344,I to vrlo dobro ispričana priča o osveti.,0,0,0
-3,33,3345,"No ako vam se svidjela Divlja cesta, velika je vjerojatnost da ćete voljeti i Furiosu.",0,0,0
+3,33,3345,"No ako vam se svidjela Divlja cesta, velika je vjerojatnost da ćete voljeti i Furiosu.",0,2,0
 4,41,411,Još jedan remake?,2,1,2
 4,41,412,Vjerujem kako je ovo bila prva reakcija većine filmofila na vijest kako se snima američka verzija danskog filma „Speak No Evil“.,2,2,2
-4,41,413,Ovaj horor redatelja Christiana Tafdrupa izazvao je veliku pažnju kod publike.,0,0,0
-4,41,414,"O njemu se pričalo po društvenim mrežama te je potaknuo raspravu o mnogim temama koje je obrađivao, posebice među ljubiteljima horora. Činjenica kako se snima remake filma čija se vrpca takoreći nije ni ohladila iznenadila je mnoge pa su se svi ti upitnici o smislu njegovog postojanja činili i više nego logičnim.",2,2,2
+4,41,413,Ovaj horor redatelja Christiana Tafdrupa izazvao je veliku pažnju kod publike.,2,0,0
+4,41,414,"O njemu se pričalo po društvenim mrežama te je potaknuo raspravu o mnogim temama koje je obrađivao, posebice među ljubiteljima horora - činjenica kako se snima remake filma čija se vrpca takoreći nije ni ohladila iznenadila je mnoge pa su se svi ti upitnici o smislu njegovog postojanja činili i više nego logičnim.",2,0,2
 4,41,415,"No, valja podsjetiti kako kratki period između izlaska originalnog i remake filma nije baš tolika rijetkost.",2,2,2
 4,41,416,"Sjetimo se samo odličnog švedskog horora „Neka uđe onaj pravi“ koji je imao premijeru 2008. godine, da bismo također nakon dvije godine dobili i američku, jednako tako uspješnu verziju",0,0,0
 4,41,417,"Kada je u pitanju „Speak No Evil“, koliko god bio oduševljen danskim filmom, posebice mračnom atmosferom i osjećajem tjeskobe koji me držao dugo nakon odjavne špice, moram priznati kako mi je u samoj radnji ipak puno toga nedostajalo da bi mogao u potpunosti uživati u njemu.",2,2,2
@@ -359,7 +359,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 4,41,4112,„Svi smo jebeno pristojni.“,2,2,2
 4,41,4113,"„Speak No Evil“ u svojoj radnji ima točno ono što inače volim kod filmova, posebice kada je riječ o hororima i trilerima, mojim najdražim filmskim žanrovima.",0,0,0
 4,41,4114,"Naime, film nas vodi u životnu svakodnevicu i to tako što obrađuje naše stvarne strahove i tjeskobe s kojima se možemo povezati.",0,2,0
-4,41,4115,"Počevši od nametnute pristojnosti prema ljudima koji to ne zaslužuju, preko veza između partnera koje više ne funkcioniraju pa sve do onih puno strašnijih, a zbog kojih će, vjerujem, svakom roditelju iskustvo gledanja filma biti posebno traumatično iskustvo.",2,2,2
+4,41,4115,"Počevši od nametnute pristojnosti prema ljudima koji to ne zaslužuju, preko veza između partnera koje više ne funkcioniraju pa sve do onih puno strašnijih, a zbog kojih će, vjerujem, svakom roditelju iskustvo gledanja filma biti posebno traumatično iskustvo.",2,1,2
 4,41,4116,"Dakle, film nije nekakav SF koji je teško zamisliti već filmska slika niza životnih situacija u kojima smo se barem jednom našli, odnosno film o tjeskobama koje nas prate u životu i koji postavlja jasna pitanja koliko smo zapravo okovani svojom, ali i onom nametnutom društvenom pristojnošću.",2,2,2
 4,41,4117,Ono što ovaj remake čini superiornijim u odnosu na original prije svega je James McAvoy koji u filmu ima glavnu ulogu.,0,0,0
 4,41,4118,Za mene je James nevjerojatno podcijenjen glumac koji ni približno nema status kakav bi trebao imati.,0,0,0
@@ -3259,4 +3259,4 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 29,291,29128,"Izuzev već spomenutog kraja, koji je zaista toliko dobar da praktički izvlači čitav film, zapamtio sam jednu pametno osmišljenu scenu bijega, dok je ostatak filma već sada u pomalo blijedom sjećanju.",2,2,2
 29,291,29129,"Imala je Bezgrešna potencijala, no na kraju sve je ostalo na tome, a od punih kinodvorana najviše će profitirati sama Sweeney – ako ništa zbog toga što je dokazala da može iznijeti glavnu ulogu oslanjajući se primarno na svoje glumačko znanje i glumačku vještinu.",2,1,2
 ,,,,,,
-,,,,,,33
+,,,,,,38
