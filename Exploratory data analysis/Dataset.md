@@ -3,11 +3,9 @@
 Total test sentences: 653
 
 ## Label Distribution
+- Label 0: 165
 - Label 1: 58
-- Label 2: 379
-- Label 3: 165
-- Label 4: 49
-- Label 5: 2
+- Label 2: 430
 
 ## Sentence Length (in words)
 - Average: 21.33

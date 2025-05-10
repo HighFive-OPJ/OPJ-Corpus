@@ -21,7 +21,7 @@ report = "# Test Set Statistics\n\n"
 report += f"Total test sentences: {len(test_df)}\n\n"
 
 report += "## Label Distribution\n"
-for label in range(1, 6):
+for label in range(0, 3):
     report += f"- Label {label}: {label_counts.get(label, 0)}\n"
 
 report += "\n## Sentence Length (in words)\n"
