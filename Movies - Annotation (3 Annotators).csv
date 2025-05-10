@@ -1,6 +1,6 @@
 MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 1,11,111,Glumice koje su u jednom periodu svoje karijere odlučile stati iza kamere te se tako okušati kao redateljice nisu rijetkost u svijetu filma.,2,0,2
-1,11,112,"Sjetimo se samo Maggie Gyllenhaal i filma „The Lost Daughter“, adaptaciji istoimenog romana, nominiranog za čak tri Oscara.",0,0,0
+1,11,112,"Sjetimo se samo Maggie Gyllenhaal i filma „The Lost Daughter“, adaptaciji istoimenog romana, nominiranog za čak tri Oscara.",2,0,0
 1,11,113,"Zasigurno jedan od najboljih primjera je i Sofia Coppola sa svojim sad već kultnim filmom „The Virgin Suicides“, dok je najsvježija glumačko – redateljska priča svakako ona Grete Gerwig koja je s debitantskim filmom „Lady Bird“ pokazala sav svoj talent koji je kasnije još više potvrdila s „Little Women“ i posebice „Barbie“
 ",0,0,0
 1,11,114,"Meni je posebno drag film „Booksmart“, redateljski debi Olivije Wilde, jednako kao i „One Night in Miami“, Regine King.",0,0,0
@@ -18,7 +18,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 1,11,1116,Kendrick koristi četiri ključne razine priče.,2,2,2
 1,11,1117,"U prvoj gledamo glavnu junakinju Sheryl, i to upravo u izvedbi Anne Kendrick koja je tako u dvostrukoj ulozi, glumice i redateljice.",2,2,2
 1,11,1118,"Sheryl je u filmu mlada glumica u potrazi za slavom, a gdje ćeš boljeg mjesta za ostvarivanje snova od Los Angelesa.",2,0,2
-1,11,1119,"Međutim, grad snova Kendrick prikazuje kakav on često i jest, mračan i okrutan, i to kroz temu filma koja se savršeno uklapa upravo u takav ton.",0,0,0
+1,11,1119,"Međutim, grad snova Kendrick prikazuje kakav on često i jest, mračan i okrutan, i to kroz temu filma koja se savršeno uklapa upravo u takav ton.",0,2,0
 1,11,1120,"U drugoj razini vidimo Rodneya Alcalu (jako dobar Daniel Zovatto), i to isključivo kroz način na koji je mamio svoje žrtve.",2,2,2
 1,11,1121,"Treći dio priče nas vodi u samu emisiju za spajanje parova u kojoj se Alcala prijavio i u kojoj je izabran kao „savršen partner“, dok se u četvrtoj i završnoj upoznajemo s ključnim i fatalnim susretom koji je na više razina simboličan i kroz koji Kendrick savršeno poentira poruku koju je željela poslati.",0,0,0
 1,11,1122,Film ima sugestivnu fotografiju koja nas na prvi pogled može odvesti na krivi trag.,2,2,2
@@ -28,14 +28,14 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 1,11,1126,Vizualna disciplina koju je Kendrick pokazala kroz film uistinu je impresivna jer je uspjela postići ljepotu i u smrti.,0,0,0
 1,11,1127,"Ljepota Kendrickinog filma dolazi upravo od žena, njihovog okruženja i izvedbi u tim životnim trenucima kojima svjedočimo.",0,0,0
 1,11,1128,"Priroda kao da postaje sinonim prkosa, onog istog kojeg su žrtve pokazale prema ubojici.",2,2,2
-1,11,1129,"I bez obzira na to što imamo ograničeno vrijeme da ih upoznamo, prostor u kojem ih stavlja redateljica dovoljno govori o složenosti njihovih života, izvan konteksta tog nasilnog trenutka s kojim se moraju suočiti, odnosno prikazivanjem detalja koji nas upoznaju s njihovim životom koji su živjele ranije.",0,0,0
+1,11,1129,"I bez obzira na to što imamo ograničeno vrijeme da ih upoznamo, prostor u kojem ih stavlja redateljica dovoljno govori o složenosti njihovih života, izvan konteksta tog nasilnog trenutka s kojim se moraju suočiti, odnosno prikazivanjem detalja koji nas upoznaju s njihovim životom koji su živjele ranije.",0,2,0
 1,11,1130,Ljepota okruženja kao prikaz ljepote cijelog života žena koje su imale i koji na takav način i dalje živi.,0,0,0
 1,11,1131,"Prikaz seksizma kroz krimi žanr, posebice kada je riječ o istinitim pričama nije baš lagan zadatak, no Kendrick pokazuje kako mu je itekako dorasla.",0,2,0
 1,11,1132,"U tom pogledu njeno najjače oružje postaje suptilnost koja djeluje poput malih tragova koje nažalost neće svatko prepoznati, ali nekako mislim kako u tome i jest poanta.",2,2,2
 1,11,1133,"Kao najbolji dokaz ovoj mojoj tvrdnji svakako treba izdvojiti sporedne likove koji samo na prvi pogled nemaju veze s centralnom radnjom filma, ali su u pogledu prikaza društva „jučer, danas i sutra“ jako bitni.",2,2,2
 1,11,1134,"Oni možda nisu serijski ubojice, ali su u osnovi tipovi koje susrećete na poslu, ulici, danas i na društvenim mrežama, a koji u velikoj mjeri oslikavaju cijeli jedan društveni spektar ležerne mizoginije koju malo tko uzima za ozbiljno.",2,1,2
 1,11,1135,I u tome Kendrick izvrsno poentira kroz neozbiljnost koja je pokazana prilikom hvatanja serijskog ubojice u filmu.,0,0,0
-1,11,1136,Psihološki triler žanrovski uspijeva uhvatiti emociju žrtava.,0,0,0
+1,11,1136,Psihološki triler žanrovski uspijeva uhvatiti emociju žrtava.,0,2,0
 1,11,1137,Jer ovdje nije važno što se događa u mračnom umu ubojice već je fokus na tuzi koju osjećamo gledajući sve te žene kako pokušavaju preživjeti.,2,2,2
 1,11,1138,"Pri tome je jako zanimljivo promatrati njihove reakcije u određenim momentima, često sam se znao zapitati zašto ne naprave nešto konkretno, čak i kada je postojala određena sloboda izbora, ali sam vrlo brzo shvatio određenu prisutnost manipulacije u koju nas je upravo kroz takva pitanja uvukla redateljica.",0,0,0
 1,11,1139,"Jer, sloboda i moć koju možda i osjete, ponekad treba biti zatvorena i smanjena, i to od njih samih, naprosto jer bi ih u suprotnome to moglo dovesti u još veću opasnost.",2,2,2
@@ -95,13 +95,13 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 2,21,2135,"Danas su te teme relevantnije nego ikada prije i Villeneuve je toga itekako svjestan, a što se najbolje vidi upravo kroz glavni lik filma – Paula Atreidesa.",2,0,2
 2,21,2136,Uloga budućeg “Mesije” pripala je Timothéeu Chalametu i prije nego se osvrnem na njegov lik u filmu imam potrebu nešto posebno naglasiti.,2,2,2
 2,21,2137,"Dakle, bez ikakve dileme, za mene je Chalamet najbolji mladi glumac današnjice.",0,0,0
-2,21,2138,"Kao netko tko je pogledao baš sve njegove filmove, ne mogu se načuditi koliko se podcjenjivački gleda na njegovu dosadašnju karijeru.",0,0,0
+2,21,2138,"Kao netko tko je pogledao baš sve njegove filmove, ne mogu se načuditi koliko se podcjenjivački gleda na njegovu dosadašnju karijeru.",0,2,0
 2,21,2139,"No, svatko tko je gledao film “Call Me by Your Name”, posebice zadnjih desetak minuta, nije mogao ne primijetiti koliki se glumački potencijal krije u njemu.",0,0,0
 2,21,2140,"Da može odigrati i drugačije uloge, van nekakvih klišej uloga teenagerskog ljepotana, dokazao je i u filmu “Bones and All”, a bogami i u ovom nastavku filma “Dune” kojeg doslovno nosi na svojim leđima.",0,0,0
 2,21,2141,Način na koji gledamo njegov lik u velikoj mjeri oslikava način na koji gledamo svijet Dine.,2,2,2
 2,21,2142,"Naime, prvi film i jest bio “nježni uvod” u sve ono što nas očekuje.",2,2,2
 2,21,2143,"Na isti smo taj način (do)živjeli i Paula, jer smo iznad njegovih ramena, metaforički rečeno, i otkrivali planet.",2,2,2
-2,21,2144,"Drugi dio, pak, puno je mišićaviji, snažniji, moćniji, jednako kao i Paul.",2,2,2
+2,21,2144,"Drugi dio, pak, puno je mišićaviji, snažniji, moćniji, jednako kao i Paul.",0,2,2
 2,21,2145,"Paul je za mene svakako najzanimljiviji lik u filmu, i to zahvaljujući upravo Chalametovoj izvedbi.",0,0,0
 2,21,2146,"I dok smo ga u prvom filmu doživljavali kao heroja, ovdje je Villeneuve suptilno dao do znanja kako on i nije baš toliki pozitivac kao što se čini, a što je opet na tragu i samog Herberta koji je u romanu dao neku vrstu upozorenja što se događa kada netko ima preveliku moć.",2,2,2
 2,21,2147,"Upravo je zbog toga i napisao roman “Mesija Dine”, a kojeg Villeneuve također planira ekranizirati.",2,2,2
