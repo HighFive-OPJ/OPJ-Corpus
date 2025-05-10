@@ -1,5 +1,5 @@
-MovieID	ReviewID 	SentenceID	Sentence	A1	A2	A3
-1	11	111	Glumice koje su u jednom periodu svoje karijere odlučile stati iza kamere te se tako okušati kao redateljice nisu rijetkost u svijetu filma.	2	0	2
+MovieID,ReviewID,SentenceID,Sentence,A1,A2,A3
+1,11,111	Glumice koje su u jednom periodu svoje karijere odlučile stati iza kamere te se tako okušati kao redateljice nisu rijetkost u svijetu filma.	2,0,2
 1	11	112	Sjetimo se samo Maggie Gyllenhaal i filma „The Lost Daughter“, adaptaciji istoimenog romana, nominiranog za čak tri Oscara.	0	0	0
 1	11	113	"Zasigurno jedan od najboljih primjera je i Sofia Coppola sa svojim sad već kultnim filmom „The Virgin Suicides“, dok je najsvježija glumačko – redateljska priča svakako ona Grete Gerwig koja je s debitantskim filmom „Lady Bird“ pokazala sav svoj talent koji je kasnije još više potvrdila s „Little Women“ i posebice „Barbie“
 "	0	0	0
