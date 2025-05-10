@@ -108,8 +108,8 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 2,21,2148,"U tom smislu nam, baš poput nekog teasera, kroz neke dijelove filma daje naznaku kako bi taj treći dio ove sage mogao izgledati.",2,2,2
 2,21,2149,"Timothee je savršen za ovu ulogu, njegove aristokratske crte lica doslovno odaju inteligenciju u očima, jednako kao i ranjivost, mladost, a što mu kasnije dođe kao savršeno oružje u borbi s vlastitim identitetom.",0,0,0
 2,21,2150,"I kako idemo dalje, duboko u pijesak Dine, tako pratimo Paula koji traži osvetu, rastrganog između velike ljubavi i sudbine koja mu je namijenjena i za koju zna da dolazi.",2,2,2
-2,21,2151,"Ovo je priča o njegovom putovanju prema moći, gdje vidimo drugačiju, snažniju stranu njegovog lika, sliku vođe koju većina vidi u njemu.",2,2,2
-2,21,2152,"Istovremeno, svima onima koji sumnjaju u njega, odlučan je pokazati kako su u krivu.",2,2,2
+2,21,2151,"Ovo je priča o njegovom putovanju prema moći, gdje vidimo drugačiju, snažniju stranu njegovog lika, sliku vođe koju većina vidi u njemu.",2,2,0
+2,21,2152,"Istovremeno, svima onima koji sumnjaju u njega, odlučan je pokazati kako su u krivu.",2,0,2
 2,21,2153,"Simbolično se to može prenijeti i na samog Timothéea, posebice kroz jedan njegov moćan urlik kojim kao da se obraća skepticima ispred velikog platna: “Tišinaaaa!!”.",2,0,2
 2,21,2154,“Ovo je tek početak.”,2,2,2
 2,21,2155,Riječi s kojima završava prvi film na najbolji mogući način dokazuje kako je sve ono što smo gledali u njemu bilo tek obećanje koje je ispunjeno u nastavku.,0,0,0
@@ -117,7 +117,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 2,21,2157,"Osim toga, ovo je puno veći film u svakom mogućem pogledu, prvenstveno u glumačkom.",0,0,0
 2,21,2158,"Osim što samom pričom zadire u Herbertov svijet, upoznaje nas još intimnije s likovima koje smo imali priliku samo na kratko vidjeti u prvom filmu.",2,2,2
 2,21,2159,Tu prvenstveno mislim na Chani (Zendaya) čiju smo prisutnost mogli osjetiti većinom kroz Paulove snove.,2,2,2
-2,21,2160,"Njena puno veća prisutnost čini od nastavka puno emotivniji film, posebice kroz njen odnos s Paulom.",0,0,0
+2,21,2160,"Njena puno veća prisutnost čini od nastavka puno emotivniji film, posebice kroz njen odnos s Paulom.",2,0,0
 2,21,2161,"Međutim, Chani je ovdje puno više od ljubavnog zanosa za Paula.",2,2,2
 2,21,2162,"Ona ga najviše i izaziva, takoreći njegov je vodič, doslovno i figurativno, te dominira velikim platnom svaki put kad se pojavi.",2,2,2
 2,21,2163,"No, njega snaga ne očituje se samo kroz odnos s Paulom, već i kroz dijaloge s drugim likovima.",2,0,2
@@ -137,7 +137,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 2,21,2177,"Car je uvijek bio u pozadini same priče, no kao i takav izaziva naše poštovanje.",0,2,0
 2,21,2178,"U njegovom pogledu može se osjetiti nesigurnost, baš prigodno za nekoga tko je prepun žaljenja.",2,2,2
 2,21,2179,"Naravno, on tu slabost pokušava sakriti, a u tome mu itekako pomaže Irulan, odnosno njega snaga koja djeluje kao ravnoteža njegovoj ranjivosti.",2,2,2
-2,21,2180,"Ne znam da li bih se trebao zabrinuti što sam se prilikom prvog upoznavanja s planetom Dine najviše zainteresirao za kuću Harkonnen, posebice ako pogledate baruna Vladimira, u prvom filmu u izvrsnoj interpretaciji jednog od najvećih glumaca Stellana Skarsgarda, a koji je odbojan na svaki mogući način.",2,2,2
+2,21,2180,"Ne znam da li bih se trebao zabrinuti što sam se prilikom prvog upoznavanja s planetom Dine najviše zainteresirao za kuću Harkonnen, posebice ako pogledate baruna Vladimira, u prvom filmu u izvrsnoj interpretaciji jednog od najvećih glumaca Stellana Skarsgarda, a koji je odbojan na svaki mogući način.",2,2,0
 2,21,2181,"Pa ipak, opet me nekako uspio sadistički privući, dovoljno da se zainteresiram za njega, bez obzira na posljedice.",0,0,0
 2,21,2182,"No, da sam imao dobar osjećaj kako me Harkonneni, barem u smislu dosade, neće razočarati, dokazao je i lik s kojim smo se upoznali upravo u ovom nastavku.",0,0,0
 2,21,2183,"Riječ je, dakako, o Feydu-Rauthu kojeg je utjelovio neprepoznatljivi Austin Butler.",2,2,2
@@ -152,7 +152,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 2,21,2192,"Ono što su “Infinity War” i “Endgame” bili za superjunačke filmove, ono što je trilogija “Gospodar prstenova” za fantasy žanr, to je ovaj film za SF.",0,0,0
 2,21,2193,"Sve je savršeno, počevši od kostima, scenografije, glazbe, zvuka, montaže i vizualnih efekata, tako da svi oni koji su ove godine nominirani za Oscara mogu samo zahvaliti prilikom dodjele nagrade isključivo štrajkašima koji su odgodili premijeru “Dine”.",0,0,0
 2,21,2194,"Jer, da su se kojim slučajem našli u konkurenciji u bilo kojoj kategoriji, posebice kada su u pitanju one tehničke, imali bi manje šanse nego Lloyd prema Marry u filmu “Glup i Gluplji”.",2,0,0
-2,21,2195,"Zvuk bih također posebno istaknuo, jer je itekako bitan za sam doživljaj i zato nije ni čudo što je Villeneuve inzistirao da se film doživi na najvećem mogućem platnu.",0,0,0
+2,21,2195,"Zvuk bih također posebno istaknuo, jer je itekako bitan za sam doživljaj i zato nije ni čudo što je Villeneuve inzistirao da se film doživi na najvećem mogućem platnu.",0,2,0
 2,21,2196,"Da, vizuali su prekrasni, ali zvuk je ono što ovaj film čini posebnim.",0,0,0
 2,21,2197,"Svaki kadar djeluje kao da je dizajniran po određenom dobu dana, posebno kroz paletu boja koje su privlačne jer služe samoj priči.",0,0,0
 2,21,2198,"Da, predivnoj priči za koju imam osjećaj kao da je putovala kroz vrijeme te se vratila ponovno k nama.",0,0,0
@@ -188,13 +188,13 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 2,22,2211,A uz to ih i spojiti ih s nevjerojatno lijepim i epskim vizualnim scenama.,0,0,0
 2,22,2212,U jednom intervjuu sam pročitao da je Villeneuve rekao da ne smatra dijalog toliko bitnim za film.,2,2,2
 2,22,2213,"Nego da je za njega bitniji vizualni prikaz radnje, tzv. Visual storytelling.",2,2,2
-2,22,2214,"Kao i svakog fana odličnih scenarija, ta izjava me zabrinula.",1,1,1
+2,22,2214,"Kao i svakog fana odličnih scenarija, ta izjava me zabrinula.",1,2,1
 2,22,2215,"Ali, nakon pogledanog filma, mogu vidjeti što je pod tom izjavom mislio.",2,2,2
 2,22,2216,Dina 2 je estetski jedan od najljepših filmova svih vremena.,0,0,0
 2,22,2217,Ovo što je Villeneuve uspio napraviti što se tiče stvaranja svijeta (world-building) je nevjerojatno i nešto što nismo mogli vidjeti od trilogije Lord of the Rings i originalnih Star Wars filmova.,0,0,0
 2,22,2218,Budžet filma Dune 2 je 190 milijuna dolara.,2,2,2
 2,22,2219,Budžet je to koji je usporediv s filmovima o superjunacima i ostalim blockbusterima (neki budžeti idu i do 300 milijuna dolara).,2,2,2
-2,22,2220,Ipak Dune 2 donosi toliko vizualnih noviteta koliko nismo vidjeli od početka 2000-tih i faze prve velike upotrebe CGI-ja u filmovima.,0,0,0
+2,22,2220,Ipak Dune 2 donosi toliko vizualnih noviteta koliko nismo vidjeli od početka 2000-tih i faze prve velike upotrebe CGI-ja u filmovima.,0,2,0
 2,22,2221,"Dok je danas svaki moderni film pun raznovrsnih upotreba CGI-a što rezultira time da se stvara svijet koji nikada ne shvaćamo realnim, u Dini sve izgleda tako jednostavno i prirodno.",2,0,2
 2,22,2222,Svaki puta kada se redatelj odlučio prikazati široki kadar ostao bih zapanjen svime što vidim ispred sebe.,0,0,0
 2,22,2223,Na nekoliko scena sam osjetio trnce po cijelom tijelu što samo po sebi dovoljno govori o tome koliko sam zadovoljan radom Villeneuvea.,0,0,0
@@ -203,7 +203,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 2,22,2226,Denis Villeneuve ovim filmom još jednom potvrđuje status jednog od najboljih redatelja današnjice.,0,0,0
 2,22,2227,Nakon ovog filma ima argumenata da ga se nazove jednim od najboljih redatelja sci-fi filmova svih vremena.,0,0,0
 2,22,2228,Prije nego završim odlomak posvećen Villeneuveu želim reći da najviše poštujem njegovu odliku da apsolutno nikada ne radi film za „glupu“ publiku kojoj se mora sve što se događa u filmu detaljno objasniti više puta.,2,0,2
-2,22,2229,"On vjeruje svojoj publici da može bez takvih objašnjavanja, povezati različite uzroke i posljedice koje se pojavljuju kroz radnju filma.",2,2,2
+2,22,2229,"On vjeruje svojoj publici da može bez takvih objašnjavanja, povezati različite uzroke i posljedice koje se pojavljuju kroz radnju filma.",2,2,0
 2,22,2230,Zbog toga će uvijek imati moje poštovanje.,0,0,0
 2,22,2231,"Na početku filma upoznajemo kulturu Fremena, autohtonog naroda s Dine, s kojima Paul želi sklopiti savez za bitku protiv Harkonnena.",2,2,2
 2,22,2232,Najbolji dio prve knjige mi je bila upravo kultura potpuno stranog naroda koja nas privlači zbog svoje mističnosti i religijskih koncepata.,0,0,0
@@ -3258,3 +3258,5 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 29,291,29127,"Upravo zato prava je šteta što je takvih beskompromisnih kadrova premalo, a da stvari budu gore, gotovo svi su rezervirani za fantastičnu završnicu.",1,2,2
 29,291,29128,"Izuzev već spomenutog kraja, koji je zaista toliko dobar da praktički izvlači čitav film, zapamtio sam jednu pametno osmišljenu scenu bijega, dok je ostatak filma već sada u pomalo blijedom sjećanju.",2,2,2
 29,291,29129,"Imala je Bezgrešna potencijala, no na kraju sve je ostalo na tome, a od punih kinodvorana najviše će profitirati sama Sweeney – ako ništa zbog toga što je dokazala da može iznijeti glavnu ulogu oslanjajući se primarno na svoje glumačko znanje i glumačku vještinu.",2,1,2
+,,,,,,
+,,,,,,33
