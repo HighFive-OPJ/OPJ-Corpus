@@ -22,7 +22,7 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 <p>     - Shortest: 1</p>
 <p>     - Longest: 95</p>
 <p>The results are saved in the file "Dataset.md" See link below. </p>
-<p>Exploratory data analysis/Dataset.md</p>
+<p>[Exploratory data analysis/Dataset.md](https://github.com/HighFive-OPJ/OPJ-Corpus/blob/9415303240584f8f93e58f7c4a190b8b235388f2/Exploratory%20data%20analysis/Dataset.md)</p>
 <p> We implemented our data with machine learning. We used SVM and KNN algorithms. </p>
 <p> These are the results:</p>
 <p> SVM: </p>
