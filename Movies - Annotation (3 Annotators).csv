@@ -366,7 +366,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 4,41,4119,"Jer, obzira u kakvim filmovima glumio, gotovo je sigurno kako će on biti na visini zadatka.",0,0,0
 4,41,4120,Toga sam bio i svjestan prije odlaska u kino i znao sam točno kako me James neće razočarati.,0,0,0
 4,41,4121,Na kraju me opet uspio ostaviti bez teksta sa svojom izvedbom koja je u velikoj mjeri i glavni razlog zbog kojeg je ovaj remake vrijedan vaše pažnje.,0,0,0
-4,41,4122,"Jamesov lik istovremeno je šarmantan i zastrašujući, i to je ona velika razlika koja čini prevagu prema kvaliteti ovog filma.",0,0,0
+4,41,4122,"Jamesov lik istovremeno je šarmantan i zastrašujući, i to je ona velika razlika koja čini prevagu prema kvaliteti ovog filma.",0,2,0
 4,41,4123,"Fizički je moćan, a on tu fiziku koristi za skrivanje i otkrivanje svog karaktera prema drugima.",2,0,2
 4,41,4124,"On kao da uživa u tom (ne)obuzdanom ludilu, a što se još više ističe kroz odnos s Ciarom (jako dobra Aisling Franciosi).",0,0,2
 4,41,4125,"Imati u filmu jedan takav karakter koji se razvija od prijateljski nastrojene osobe, pa sve do suptilnog ubacivanja prisutnosti nečeg zlokobnog kroz samo jedan običan pogled koji krije stvarnu čudovišnu prirodu pojedinca, naprosto je primamljivo za gledanje, ma koliko god bilo neugodno.",2,0,0
@@ -375,13 +375,13 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 4,41,4128,Na taj način i mi lakše shvaćamo zašto se nalaze u situaciji dulje nego što bi realno trebali i smjeli.,2,2,2
 4,41,4129,"Jer, htjeli mi to priznati ili ne, ima nešto privlačno u likovima koji su cool, zabavni i šarmantni poput onog kojeg je portretirao McAvoy, bez obzira na to što radi stvari kojoj prosječnoj osobi nikad ne bi pale na pamet.",0,2,2
 4,41,4130,"No, upravo zato je njegov lik toliko zavodljiv, posebice za većinu ljudi koja živi po pravilima.",0,2,2
-4,41,4131,"Drugi najvažniji lik u filmu, a koji je također bitan prije svega za karakter samog filma, ako se mogu tako izraziti, svakako je onaj koji je utjelovila Mackenzie Davis, a koju sam prvi put primijetio u jednoj manjoj ulozi u filmu Blade Runner 2049.",2,2,2
+4,41,4131,"Drugi najvažniji lik u filmu, a koji je također bitan prije svega za karakter samog filma, ako se mogu tako izraziti, svakako je onaj koji je utjelovila Mackenzie Davis, a koju sam prvi put primijetio u jednoj manjoj ulozi u filmu Blade Runner 2049.",2,2,0
 4,41,4132,"Ono što se meni nije svidjelo kod originala, upravo je bila osobnost glavnih protagonista, tako da je ovaj film bio ugodno iznenađenje po tom pitanju, a što je itekako utjecalo na moj pozitivniji ali i uvjerljiviji pogled na samu priču.",2,0,0
 4,41,4133,"Naime, upravo kroz glavni ženski lik, a koji je itekako snažan, mi i stvaramo motivaciju i interes za sve ono što se događa u filmu.",0,0,0
-4,41,4134,"Naša povezanost za radnju raste kroz njene oči, dok ona i govori i postupa upravo u ime publike.",0,0,0
-4,41,4135,"Dosta puta mi je tijekom gledanja filma došlo da povičem na likove i njihove odluke, a upravo je ona bila u velikoj mjeri glasnik razuma.",2,2,2
+4,41,4134,"Naša povezanost za radnju raste kroz njene oči, dok ona i govori i postupa upravo u ime publike.",2,0,0
+4,41,4135,"Dosta puta mi je tijekom gledanja filma došlo da povičem na likove i njihove odluke, a upravo je ona bila u velikoj mjeri glasnik razuma.",2,0,2
 4,41,4136,"Kroz nju se osjeti onaj Hanekeov dodir koji je sigurno bio uzor redatelju, a što ćete vjerujem prepoznati, posebice ako ste gledali filmove „Cache“ ili „Funny Games“.",2,2,2
-4,41,4137,"Njen lik je baš moćan, divlji, uz pristojno lice koje ipak ne može sakriti pravu emociju, ma koliko god se trudila biti „dobar gost“.",0,0,0
+4,41,4137,"Njen lik je baš moćan, divlji, uz pristojno lice koje ipak ne može sakriti pravu emociju, ma koliko god se trudila biti „dobar gost“.",0,0,2
 4,41,4138,"Ona se neće libiti pokazati impulzivnost, što odgovara slojevitosti njenog karaktera.",0,2,2
 4,41,4139,Kroz nju redatelj i prikazuje tu socijalnu anksioznost koja raste kada njen lik dođe u dodir sa smrtnom opasnosti.,2,2,2
 4,41,4140,Ona se kao glavna protagonistica tako savršeno nadopunjuje sa snažnim antagonistom u ulozi Jamesa McAvoya.,0,0,0
@@ -390,7 +390,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 4,41,4143,I koliko smo zapravo sami krivi za posljedice ne radeći ništa.,2,2,2
 4,41,4144,„Zašto to radite?“,2,2,2
 4,41,4145,„Zato jer ste nam dopustili.“,2,2,2
-4,41,4146,"Općenito, suptilna interakcija između likova i stvara ton filma, a koji s odmakom vremena postaje sve neugodniji i nasilniji.",0,0,0
+4,41,4146,"Općenito, suptilna interakcija između likova i stvara ton filma, a koji s odmakom vremena postaje sve neugodniji i nasilniji.",0,2,0
 4,41,4147,Horor je sramežljivo skriven.,2,2,2
 4,41,4148,"Tenzija koja raste kroz borbu za preživljavanjem viđena je u brojnim filmovima, a iz kojih je i redatelj crpio inspiraciju, poput „The Last House on the Left“ ili „Straw Dogs“.",2,2,2
 4,41,4149,"Watkins je lijepu posvetu dao i originalnom filmu, ali i filmu kojeg je sam režirao, “Eden Lake”, meni njegovom najdražem, i to u smislu mračne atmosfere koja je, istina, suptilna u odnosu na ta dva filma, ali opet je dovoljno opipljiva.",0,0,0
@@ -407,7 +407,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 4,41,4160,"Watkins je u velikoj mjeri uspio u svom naumu, bilo kroz kulturološke razlike u odnosu na original koje su vidljive u filmu ili kroz tu našu povezanost s likovima.",0,0,0
 4,41,4161,"Meni su likovi u originalu strašno išli na živce koliko su bili glupi i nezainteresirani za borbu za preživljavanjem, tako da prema njima nisam imao nikakvu empatiju, ma koliko god film bio neugodan.",1,1,1
 4,41,4162,Ovdje likovi imaju drugačiju energiju i baš zbog toga moram više puta naglasiti upravo tu njihovu snažnu karakterizaciju koja je jako bitna.,0,0,0
-4,41,4163,"Također, neki su likovi dobili puno više prostora i smisla, poput dječaka koji u originalu uopće nije imao nikakvu svrhu.",2,2,2
+4,41,4163,"Također, neki su likovi dobili puno više prostora i smisla, poput dječaka koji u originalu uopće nije imao nikakvu svrhu.",0,2,2
 4,41,4164,"Uz sve to, redatelj pametno koristi društvenu satiru za prikaz svih tih različitosti, žanrovski prvo kroz psihološki horor, a kasnije i kroz napetost trilera začinjenog akcijom.",0,0,0
 4,41,4165,"Film vizualno ima štih 80-ih i 90-ih, a koji opet izražava notu po kojoj „svira“ film i njihovi likovi.",0,0,0
 4,41,4166,"U jednom trenutku na televiziji vidimo Chucka Norrisa koji za glavnog antagonista metaforički predstavlja vrijeme kada su muškarci bili pravi muškarci, odnosno kada su se cijenile vrijednosti koje danas, po njemu, nestaju.",2,2,2
@@ -423,7 +423,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 4,41,4176,"No, općenito gledajući, glazba u filmu ima jako ključnu ulogu, poput primjerice „Black Velvet“, Allanah Myles, a koja posebno služi poput neke vrste katalizatora za (seksualnu) napetost, što opet odgovara atmosferi koju diše film.",0,2,2
 4,41,4177,"Kada su u pitanju mane, paradoksa radi, one su slične kao i vrline.",2,2,2
 4,41,4178,"Naime, baš kako sam naglasio, istina jest kako snažna karakterizacija likova utječe na cjelokupni pozitivni dojam, posebno kada su pitanju likovi koje su portretirali James McAvoy (Paddy) i McKenzie Davis (Louise).",0,0,0
-4,41,4179,"No, to isto ne vrijedi i po pitanju njihovih partnera.",1,1,1
+4,41,4179,"No, to isto ne vrijedi i po pitanju njihovih partnera.",1,2,1
 4,41,4180,"Tu posebno mislim na Bena (Scott McNairy), muža protagonistice koji je ovdje još veći slabić nego što je bio isti lik u originalu.",1,1,1
 4,41,4181,"Ako me to tamo nerviralo, ovdje sam bio još više na rubu živaca po pitanju njegovih postupaka.",1,1,1
 4,41,4182,"Ovdje je njegova nesposobnost još naglašenija, bilo da je riječ o odnosu sa suprugom koji više ne funkcionira ili pak kroz odluke koje (ne) donosi u situaciji kada prijeti smrtna opasnost.",1,1,1
@@ -446,7 +446,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 4,42,429,Ali držimo se radnje za sada.,2,2,2
 4,42,4210,"Za one koji nisu gledali originalnu verziju, obitelj ode na odmor u Italiju i tamo sretnu drugu obitelj s kojima se sprijatelje.",2,2,2
 4,42,4211,"Druga obitelj ih pozove u svoju kuću, te nakon nešto premišljanja oni na kraju prihvate, iako cijela stvar vrišti da je to krivo, ali zbog stanja unutar prve obitelji i karizme kojom je zračila druga obitelj, to se na kraju učini kao dobrom odlukom.",2,2,2
-4,42,4212,"Teme kojima se film bavi nisu unikatne kao takve, ali ih film vrhunski izvede radi glume, te se kroz svoje trajanje bavi pitanjima da li bi ljudi izašli iz svoje ljuske da ih se prisili.",2,2,2
+4,42,4212,"Teme kojima se film bavi nisu unikatne kao takve, ali ih film vrhunski izvede radi glume, te se kroz svoje trajanje bavi pitanjima da li bi ljudi izašli iz svoje ljuske da ih se prisili.",0,2,2
 4,42,4213,"Iako si mi kao gledatelji govorimo da vjerojatno i bi ako situacija to zahtijeva od nas, likovi u filmu su stavljeni u određeni kalup iz kojeg ne izlaze.",2,2,2
 4,42,4214,Od samog početka McAvoy svojom glumom daje do znanja da s njime nema igre.,0,0,0
 4,42,4215,Film nam od početka pokaže suprotnost između dva muška glavna lika.,2,2,2
@@ -465,7 +465,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 4,42,4228,I to kažem baš zbog toga što će vas možda mala Agnes iživcirati.,1,1,1
 4,42,4229,"Znam da mene je, što znači da je odglumila kao što je trebala.",0,0,0
 4,42,4230,Aisling nam da glumu koja ide ruku pod ruku s McAvoyjevom.,0,0,0
-4,42,4231,"Njih dvoje imaju vrlo dobru dinamiku, te se njihove osobnosti jako dobro poklapaju, S druge strane, Mackenzie je samo OK dok Scootova gluma ne pridonosi filmu kao takvom, ali zbog McAvoyjeve glume dolazi nešto više do izražaja.",2,2,2
+4,42,4231,"Njih dvoje imaju vrlo dobru dinamiku, te se njihove osobnosti jako dobro poklapaju, s druge strane, Mackenzie je samo OK dok Scootova gluma ne pridonosi filmu kao takvom, ali zbog McAvoyjeve glume dolazi nešto više do izražaja.",2,2,2
 4,42,4232,Zlo vreba iza svakog kuta.,2,2,2
 4,42,4233,Produkcija filma je na nekoj drugoj razini.,0,0,0
 4,42,4234,"Kadrovi su prelijepo snimljeni, pogotovo u Italiji i sve što vidimo još više dočarava cijeli film.",0,0,0
@@ -480,7 +480,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 4,42,4243,"Ne znam kako najbolje opisati osjećaj, ali čim Hollywood uhvati neki film, on ga odmah snizi za nekoliko stepenica i to jako ošteti cijelu stvar.",1,1,1
 4,42,4244,Sumoran osjećaj cijelog filma nestaje u ovoj verziji i pojavljuje se samo u određenim dijelovima.,2,2,2
 4,42,4245,"To nije loša stvar s obzirom na način na koji je film snimljen, ali se vidi da su pokušali dobiti tu nelagodu tijekom dana.",1,2,2
-4,42,4246,"Da nema McAvoyja koji je sam po sebi sila s kojom se ne zeza, film ne bi bio niti upola onoga što je sada.",2,2,2
+4,42,4246,"Da nema McAvoyja koji je sam po sebi sila s kojom se ne zeza, film ne bi bio niti upola onoga što je sada.",2,0,2
 4,42,4247,"Nažalost, film ne donosi ništa novo.",1,1,1
 4,42,4248,"Za razliku od originala, on se čini slabijim, te ne pokušava shvatiti surovost i frustraciju prvobitnog filma.",1,1,1
 4,42,4249,"Za razliku od originala, ova verzija ima drugačiji kraj filma.",2,2,2
@@ -498,7 +498,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 5,51,517,"Jedna od takvih je svakako Evil Dead, a čiji je peti film iz serijala, prigodnog naziva Evil Dead Rise, stigao i u naša kina.",2,2,2
 5,51,518,Prije svega moram reći kako je ovo film koji se definitivno mora pogledati na velikom platnu i zaista mislim kako nećete pogriješiti ako za njega izdvojite novac za kino kartu.,0,0,0
 5,51,519,"Jer, radi se o filmu koji je na jedan poseban način obogatio ovu kultnu horor franšizu, a koja živi sad već preko 40 godina.",0,0,0
-5,51,5110,"No, isto tako moram priznati kako sam prije gledanja sam sebi postavio pitanje u stilu „što mi zapravo može ponuditi novi naslov iz Evil Dead serijala?“ Remake iz 2013. godine, redatelja Fedea Alvareza, čiji sam veliki obožavatelj, bio mi je sasvim dovoljan da zaključi cijelu tu priču.",2,2,2
+5,51,5110,"No, isto tako moram priznati kako sam prije gledanja sam sebi postavio pitanje u stilu „što mi zapravo može ponuditi novi naslov iz Evil Dead serijala?“ - remake iz 2013. godine, redatelja Fedea Alvareza, čiji sam veliki obožavatelj, bio mi je sasvim dovoljan da zaključi cijelu tu priču.",2,0,2
 5,51,5111,"Pa ipak, najave za ovaj film, priznajem, itekako su me zaintrigirale, tako da sam jedva dočekao dan kada će napokon uskrsnuti u kinima.",0,0,0
 5,51,5112,"Srećom, kako sam već spomenuo, nisam ostao razočaran.",0,0,0
 5,51,5113,"Dobio sam sve ono što sam očekivao od njega, ali na jedan drugačiji način što uistinu nije bilo lako postići, čime mi je film definitivno postao jedan od najdražih u ovoj dugogodišnjoj horor franšizi.",0,0,0
@@ -512,13 +512,13 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 5,51,5121,"Ponajviše jer istovremeno djeluju kao prednost i mana za glavne likove, i to u smislu njihovih odluka koje kasnije imaju bitan utjecaj na samu radnju filma.",2,2,2
 5,51,5122,"Iako je vizualno bitno drugačiji od prethodnika, stara škola horora i posveta kultnom klasiku Sama Raimija, itekako je vidljiva u jako dobro režiranoj uvodnoj sceni.",0,0,0
 5,51,5123,"Kada kažem „stara škola“ horora, u slučaju Evil Dead Rise, prije svega mislim na onaj osjećaj jeze koji vas prožima samo kroz zvuk nekog predmeta, glas pojedinih likova, pa i običnog lifta (meni uvijek jezivog), a što u kombinaciji stvara sve veću i snažniju tenziju.",0,0,0
-5,51,5124,"Taj fizički horor itekako doprinosi sve mračnijoj atmosferi, posebice kada to iskustvo doživljavamo kroz dječje oči.",0,0,0
+5,51,5124,"Taj fizički horor itekako doprinosi sve mračnijoj atmosferi, posebice kada to iskustvo doživljavamo kroz dječje oči.",0,0,2
 5,51,5125,"Pa iako možda nije krvav kao Alvarezov remake, Evil Dead Rise itekako je brutalniji, te je na momente uistinu jako težak za gledanje, čak i ako ste zagriženi horor fan.",2,2,2
 5,51,5126,"U tom je pogledu također drugačiji od prethodnika, jer se više oslanja na šok moment, a manje na humor.",2,2,2
 5,51,5127,"Humora ima, neka kombinacija između Evil Dead 2 i Army of Darkness, ali je itekako neugodan, baš kao što će biti i vama ako se nasmijete na neke bolesne scene među „normalnijim“ ljudima u kinu.",2,2,2
 5,51,5128,"No, kvragu, dajte si oduška, nemojte se stidjeti nasmijati, da parafraziram jednu poznatu sportsko komentatorsku izjavu.",2,2,2
 5,51,5129,"Za franšizu u kojoj smo vidjeli različite verzije „čudovišta“, ovaj film je itekako uspio pronaći način da me iznova zaintrigira.",0,0,0
-5,51,5130,"Glavni razlog zašto je tome tako svakako leži u izbjegavanju horor zamki, a u koje upadaju mnogi moderni hororci.",0,0,0
+5,51,5130,"Glavni razlog zašto je tome tako svakako leži u izbjegavanju horor zamki, a u koje upadaju mnogi moderni hororci.",2,0,0
 5,51,5131,Tu prije svega mislim na “jump scare” scene koje su većinski prisutne bez ikakvog smisla za samu radnju.,1,1,1
 5,51,5132,To još više iritira upravo kada su u pitanju horor franšize.,1,1,1
 5,51,5134,"Također, u većini tih franšiza redatelji previše stavljaju naglasak na nostalgiju, vjerojatno želeći na taj način ublažiti nedostatke u radnji.",1,1,1
@@ -533,7 +533,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 5,51,5143,To možda i nije bilo toliko bitno u nekim prethodnim filmovima kada smo većinom pratili teenagere za koje nas nije bilo briga.,2,2,2
 5,51,5144,"Ovdje ipak imamo snažan ženski lik oko kojeg se vrti radnja, a na koju se oslanjaju svi ostali članovi obitelji.",2,2,2
 5,51,5145,Tu posebno treba istaknuti seku Beth (jako dobra Lilly Sullivan).,0,2,2
-5,51,5146,"Njena istovremena snaga i ranjivost itekako je prirodna, dok s razvojem radnje postaje prava „coolerica“, i to kroz sliku motiva svega onoga što vežemo uz Evil Dead.",0,0,0
+5,51,5146,"Njena istovremena snaga i ranjivost itekako je prirodna, dok s razvojem radnje postaje prava „coolerica“, i to kroz sliku motiva svega onoga što vežemo uz Evil Dead.",0,2,0
 5,51,5147,"Kada je riječ o samom stilu snimanja, metode dobrog starog Sama Raimija, a koje je djelomično koristio redatelj Lee Cronin, i dalje itekako djeluju moćno.",0,0,0
 5,51,5148,"U tom pogledu dobar dio filma me podsjetio upravo na Raimijev klasik „Odvuci me u pakao“, posebice u trenucima kada Cornin koristi krupni kadar majke, dok istovremeno u pozadini gledamo i osjećamo strah i jezu ostalih članova obitelji.",2,2,2
 5,51,5149,"Atmosfera straha i neugode dodatno je pojačana zahvaljujući i odličnoj fotografiji Davea Garbetta, što ne treba čuditi s obzirom na njegovo iskustvo rada na popularnoj seriji “Ash vs Evil Dead”, tako da je to najbolji dokaz kako je itekako upoznat s „genetikom“ franšize. Šminku i praktične efekte također ne smijem zanemariti, posebice kroz ogledalo glavne glumice koja i u trenucima najveće opsjednutosti svejedno djeluje prirodno, pa sam tako imao osjećaj kako je to zapravo njeno pravo stanje, što je na neki način i mene dovodilo do ludila.",0,0,0
@@ -562,7 +562,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 5,52,522,"Prošlo je 45 godina otkako je Sam Raimi snimio svoj prvi pokušaj filma, kratki protouradak “Within the Woods” koji će tri godine kasnije biti proširen i u njegov prvi dugometražni profesionalni naslov “The Evil Dead”, priču o skupini studenata koja odlazi na izlet u kolibu u zabačenoj šumi gdje pronalazi Naturom Demonto, sumeransku verziju knjige mrtvih koja će u popularnoj kulturi ostati upamćena kao Necronomicon.",2,2,2
 5,52,523,Čitanje te knjige budi zle duhove koji opsedaju grupu i sve vodi prema suludo krvavom finalu.,1,2,2
 5,52,524,"Šest godina kasnije Raimi će se vratiti na mjesto zločina filmom “Evil Dead 2” koji će u jednakoj mjeri služiti kao remake kao i nastavak izvornog filma, a u njemu osim što će ponoviti sve ključne elemente uključujući kolibu u šumi, glavnog junaka Asha, Necronomicon, zle deadite i motornu pilu.",2,2,2
-5,52,525,Redatelj će usavršiti kombinaciju bizarnog humora i krvave i poremećene strave.,0,0,0
+5,52,525,Redatelj će usavršiti kombinaciju bizarnog humora i krvave i poremećene strave.,0,2,0
 5,52,526,"Treći nastavak serijala više se bazirao na humoru i akciji, nego na stravi kad je Ash vraćen u srednji vijek gdje se bori protiv cijele armije nemrtvih, pa film i nosi ime “Army of Darkness”.",2,2,2
 5,52,527,I nakon toga dugo ništa.,2,2,2
 5,52,528,"Sve do 2013. kad se franšize prihvatio debitant Fede Álvarez snimivši izrazito krvav i nelagodan nastavak koji je potpuno zanemario smisao za humor koji su gajili Raimijevi filmovi. Álvarez će kasnije snimiti home invasion horor “Don’t Breathe” i njegov nastavak, a zatim će puno slabiji posao odraditi s pokušajem reboota drugog klasika, “Texas Chain Saw Massacre” za Netflix.",1,1,1
@@ -623,13 +623,13 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 6,61,6139,"Postaje nam jasno kako ne gledamo tipičnog nemilosrdnog ubojicu koji će svoje žrtve stavljati u hladnjaču, nije Smiljana Srnec, već osobu koja bez obzira na posao kojim se bavi, ili ako hoćete baš zato, djeluje nevidljivo, baš poput „njemačkog turista kojeg svi izbjegavaju”, kako će se jednom prilikom našaliti na svoj račun.",2,2,2
 6,61,6140,"Iako on to žanrovski definitivno nije, „The Killer“ se na neki način može u manjem dijelu, ne u doslovnom već metaforičkom smislu, doživjeti i kao nijemi film",2,2,2
 6,61,6141,"Naime, glavni lik ne govori puno, ali to zapravo nije niti potrebno u smislu same radnje.",2,2,2
-6,61,6142,"Jer, sve ono što mi trebamo znati o njemu saznajemo kroz njegove učinkovite postupke.",0,0,0
+6,61,6142,"Jer, sve ono što mi trebamo znati o njemu saznajemo kroz njegove učinkovite postupke.",2,0,0
 6,61,6143,"Dijalozi, a kojih je jako malo, Fincher smatra viškom za glavni lik, odnosno za naše povezivanje s njim.",2,2,2
-6,61,6144,"S druge strane, kada tišina prestane, uvid u njegovu psihu redatelj postiže izborom glazbenih preferenci, gdje se posebno ističe „How Soon Is Now“, grupe The Smiths.",2,2,2
+6,61,6144,"S druge strane, kada tišina prestane, uvid u njegovu psihu redatelj postiže izborom glazbenih preferenci, gdje se posebno ističe „How Soon Is Now“, grupe The Smiths.",2,0,2
 6,61,6145,"Izbor pjesme možda djeluje smiješno na prvu, ali zapravo je itekako ispravan, posebice kada počinjemo osjećati ton samog filma, a koji je dobrim dijelom itekako umirujući.",2,2,2
 6,61,6146,"Primjerice, kada se glavni protagonist daje u bijeg, za očekivati je neku „brzi i žestoki“ akciju, no umjesto toga mi dobivamo smirujući ton trenutka koji je totalno netipičan, ali ipak savršeno povezan sa psihičkim stanjem lika.",0,0,0
 6,61,6147,Izbor pjesama se tako čini kao savršen alat za ublažavanje njegovih briga i izazova s kojima je suočen.,0,0,0
-6,61,6148,"The Killer me u velikoj mjeri, posebice ako pogledate onu uvodnu špicu, a koja je brza, jednostavna i filmična, podsjetio na stare filmove velikih faca poput Dona Siegela, Michaela Winnera i(li) Mikea Hodgesa.",2,2,2
+6,61,6148,"The Killer me u velikoj mjeri, posebice ako pogledate onu uvodnu špicu, a koja je brza, jednostavna i filmična, podsjetio na stare filmove velikih faca poput Dona Siegela, Michaela Winnera i(li) Mikea Hodgesa.",0,2,2
 6,61,6149,"I zaista, špica ima tu vibru filmova kao što su „Uhvatite Cartera“ ili „Plaćenog ubojice“ s Charlesom Bronsonom.",2,2,2
 6,61,6150,"Pa ipak, Fincher kroz upotrebu moderne tehnologije na neki način stvara od svog „The Killera“ modernu verziju B filmova.",2,2,2
 6,61,6151,"Fincher to radi na pametan način, pa tako upravo tehnološke stvari, a koje su nam svima prisutne, koristi da bi prikazao tu kulturu izolacije i osamljenosti.",0,0,0
@@ -639,8 +639,8 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 6,61,6155,"No, ako bolje promislite, tako nešto uopće nije niti potrebno.",2,2,2
 6,61,6156,"Naime, Fincher puca u razum gledatelja onog trenutka kada shvati(mo) kako smo se uspjeli povezati sa sociopatom.",0,0,0
 6,61,6157,"Tim više što on nema neku emocionalnu širinu, ali nam svojom pojavnošću daje nešto što nas, umjesto odbijanja, itekako privlači.",0,0,0
-6,61,6158,"Film je podijeljen u šest strukturalnih priča, gdje se točno može vidjeti i osjetiti vizualnost istoimenog grafičkog romana po kojem je snimljen.",0,0,0
-6,61,6159,I ne samo kada je u pitanju vizualnost već i zvuk koji u filmu ima jako bitnu ulogu.,0,0,0
+6,61,6158,"Film je podijeljen u šest strukturalnih priča, gdje se točno može vidjeti i osjetiti vizualnost istoimenog grafičkog romana po kojem je snimljen.",0,2,0
+6,61,6159,I ne samo kada je u pitanju vizualnost već i zvuk koji u filmu ima jako bitnu ulogu.,0,2,0
 6,61,6160,"Naime, kroz svih tih šest različitih poglavlja, zvukovi lokacija djeluju kao komponiranje kadrova.",0,0,0
 6,61,6161,"Kroz zvuk se pokušava definirati prostor, a što je najbolje uočljivo kroz činjenicu da mi kao gledatelji često i ne vidimo sam grad, primjerice Pariz, ali njegovo buđenje kroz zvuk i unutarnje misli protagonista itekako osjećamo.",0,0,0
 6,61,6162,"Glazba je u tom smislu također bitna, jer kroz nju vidimo i čujemo ne samo sav taj prostor u kojem se lik nalazi već i osjećamo njegova unutarnja razmišljanja.",0,0,0
@@ -659,7 +659,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 6,61,6175,"I tu sada dolazimo do najveće face filma, pa niste valjda mislili da ću ga zaboraviti, Michaela Fassbendera.",0,0,0
 6,61,6176,Njegova karizma u filmu naprosto je hipnotizirajuća.,0,0,0
 6,61,6177,"Način na koji se kreće, poput kakvog baletana, s dozom samopouzdanja pa čak i kada mu ne ide sve po planu, apsolutno i u svakom pogledu odgovara samom stilu filma.",0,0,0
-6,61,6178,"Zapravo, točnije bi bilo reći kako film odgovara Fassbenderovom stilu.",0,0,0
+6,61,6178,"Zapravo, točnije bi bilo reći kako film odgovara Fassbenderovom stilu.",0,2,0
 6,61,6179,"Njegov lik ima određenu dozu empatije, bez obzira što je smatra slabošću, ali i apatije.",2,2,2
 6,61,6180,Ta kombinacija vidljiva je kroz jezu i nježnost koju će istovremeno pokazati kroz glavnu motivaciju koja ga pokreće.,2,2,2
 6,61,6181,"On je lik koji tišinom pokreće ritam filma, te koji kroz suptilni pogled govori više i snažnije nego kroz same riječi.",0,0,0
@@ -672,30 +672,30 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 6,61,6188,"Dakle, ne postoji neka druga moralna vertikala, odnosno lik koji bi bio neka vrsta protuteže.",2,2,2
 6,61,6189,"Ne postoji, štajaznam, policajac koji ga želi uhvatiti ili nešto slično.",2,2,2
 6,61,6190,"Ne, ovdje kroz jednostavnost priče imamo uvid u rutinu koju obavlja iz dana u dan jedan ubojica.",2,2,2
-6,61,6191,"U tom pogledu i funkcionira The Killer, kao žanrovski film bez ikakve pozadinske priče, gdje osjećamo dovoljno jake vibracije, i to kroz tišinu glavnog lika koji može bilo kojeg trenutka eksplodirati.",0,0,0
+6,61,6191,"U tom pogledu i funkcionira The Killer, kao žanrovski film bez ikakve pozadinske priče, gdje osjećamo dovoljno jake vibracije, i to kroz tišinu glavnog lika koji može bilo kojeg trenutka eksplodirati.",0,2,0
 6,61,6192,"Primjerice, kada recitira pravila strogog i nepristranog pristupa poslu, dok njegovi postupci postaju improvizacijski i emocionalno angažirani.",2,2,2
 6,61,6193,"Ta prisutnost emocija zapravo je duboko ukorijenjena u njemu, tako da možemo reći kako je to jedna druga, sporedna borba, koju on cijelo vrijeme vodi sa samim sobom.",2,2,2
 6,61,6194,"Dijalozi, istina, jesu svedeni na minimum, ali su itekako uvjerljivi, ali i važni.",0,0,2
-6,61,6195,Tu posebno treba izdvojiti lik kojeg tumači Tilda Swinton.,2,2,2
+6,61,6195,Tu posebno treba izdvojiti lik kojeg tumači Tilda Swinton.,2,0,2
 6,61,6196,"Ona je intrigantna samom svojom pojavom, dok je ovdje, iako u manjoj ulozi, dala filmu poseban potpis čija tinta doslovno prolijeva svu tu morbidnost, beskompromisnost i disciplinu lik(ov)a koja više nije pod njihovom kontrolom.",0,0,0
 6,61,6197,Razgovor između Tilde i Fassbendera svakako spada među bolje trenutke filma.,0,0,0
 6,61,6198,"Također, svakako valja spomenuti i scenu noćne borbe, a čija je sirovost, upotpunjena jednako takvim zvukom, te je jedna od najboljih koje sam imao prilike gledati na bilo kojem filmu u zadnje vrijeme.",0,0,0
 6,61,6199,"Bila je to kombinacija estetski privlačnih kadrova, izvrsnih kaskaderskih izvedbi, dok je sve to začinjeno brutalnim akcijskim scenama.",0,0,0
 6,61,61100,"Također treba reći kako vizualnost općenito jako dobro prati naraciju, a što jako dobro odgovara toj metodičnoj, beskompromisnoj, morbidnoj, pa i humornoj atmosferi koja se u filmu itekako osjeća.",0,0,0
 6,61,61101,"The Killer je film koji definitivno neće svima biti po guštu, i to je sasvim razumljivo.",2,2,2
-6,61,61102,"Vjerujem da će se mnogi od vas osjećati poput naslovnog lika koji u samom uvodu cijelo vrijeme čeka da se nešto dogodi, a što može biti, kako bi on sam rekao, „itekako iscrpljujuće i dosadno.“ No, nekako sam mišljenja kako je ovo film koji se, metaforički rečeno, treba usuditi (po)gledati u oči.",2,2,2
+6,61,61102,"Vjerujem da će se mnogi od vas osjećati poput naslovnog lika koji u samom uvodu cijelo vrijeme čeka da se nešto dogodi, a što može biti, kako bi on sam rekao, „itekako iscrpljujuće i dosadno"", no, nekako sam mišljenja kako je ovo film koji se, metaforički rečeno, treba usuditi (po)gledati u oči.",2,2,2
 6,61,61103,"Uvjeren sam kako će vam u tom slučaju „Ubojica“ itekako prirasti srcu, bez obzira koliko to morbidno zvučalo.",0,2,0
 6,61,61104,Ili baš zato.,2,2,2
 6,61,61105,"Pucanj, pardon izbor je na vama.",2,2,2
 6,62,621,"Ima nešto plemenito u gledanju tako determiniranog i samouvjerenog umjetnika na djelu, iako je Fincher, baš kao i njegov lik u filmu, ovoga puta promašio metu.",2,2,1
 6,62,622,Vjerojatno nitko ne voli svoje likove manje od Davida Finchera.,1,1,1
-6,62,623,"Bilo da je riječ o serijskim ubojicama (“Seven“, “Zodiac“, “The Girl With the Dragon Tattoo“), frustriranim suprugama (“Gone girl“) ili osnivačima društvenih mreža (“The Social Network“), teško da ćete u filmovima proslavljenog američkog redatelja pronaći pozitivnu osobu, točnije više sreće biste vjerojatno imali i u Saboru.",2,2,2
+6,62,623,"Bilo da je riječ o serijskim ubojicama (“Seven“, “Zodiac“, “The Girl With the Dragon Tattoo“), frustriranim suprugama (“Gone girl“) ili osnivačima društvenih mreža (“The Social Network“), teško da ćete u filmovima proslavljenog američkog redatelja pronaći pozitivnu osobu, točnije više sreće biste vjerojatno imali i u Saboru.",1,2,2
 6,62,624,Ta lepeza suspektnih persona Fincheru kroz svih 30 godina njegove karijere služi kao platforma za njegove brutalno cinične i nihilističke stavove kroz koje detaljno i nimalo ugodno secira sve pore društva.,1,1,1
 6,62,625,"Tako radikalna stajališta i gledišta Fincher je uvijek vrlo uspješno ukomponirao u svoje filmove zahvaljujući redateljskoj umješnosti, bolesnom perfekcionizmu u kojemu se pazi na svaki minuciozan detalj (slavna je njegova svađa sa Benom Affleckom oko toga koju će kapu nositi u jednoj sceni) te intrigantnim pričama.",0,0,2
 6,62,626,"Svega toga ima i u Fincherovom najnovijem filmu “The Killer“, svega osim ovog potonjeg.",2,2,2
 6,62,627,"Ujedno i najbitnijeg a to je zanimljiva fabula zbog čega sam gledajući film dobio dojam kao da pijem bezalkoholno pivo; možda izgleda kao pivo, miriši po pivu, čak i donekle ima okus po pivu ali jednostavno – to nije to.",1,1,1
 6,62,628,"Michael Fassbender glumi bezimenog plaćenog ubojicu kojeg nakon neuspješno obavljenog posla, budući da u toj branši očito nema povrata novca, proganjaju nezadovoljni poslodavaci, te će lovac ubrzo postati lovina, da bi zatim još brže ponovno postao lovac putujući po svijetu, nabijajući kilometražu koje se ne bi posramio ni James Bond, susrećući odreda dubiozne karaktere koje treba što brže i efikasnije eliminirati.",2,2,2
-6,62,629,"Riječ je o projektu, nastalom prema francuskom stripu Alexisa Nolenta i Luca Jacamona, kojega je Fincher htio snimiti gotovo dvadeset godina (iako baš i nije jasno zašto), a za koji nije nikako uspio skupiti adekvatna sredstva (potpuno je jasno zašto). “The Killer” je bezbroj puta viđena osvetnička priča koja ne nudi nikakve novitete, osvježenja i inventivnosti svodeći se na jednostavnu formulu došao, vidio, ubio i tako unedogled.",1,1,1
+6,62,629,"Riječ je o projektu, nastalom prema francuskom stripu Alexisa Nolenta i Luca Jacamona, kojega je Fincher htio snimiti gotovo dvadeset godina (iako baš i nije jasno zašto), a za koji nije nikako uspio skupiti adekvatna sredstva (potpuno je jasno zašto) - “The Killer” je bezbroj puta viđena osvetnička priča koja ne nudi nikakve novitete, osvježenja i inventivnosti svodeći se na jednostavnu formulu došao, vidio, ubio i tako unedogled.",1,1,1
 6,62,6210,"Vjerojatno bivajući i sami svjesni toga Fincher i scenarist Andrew Kevin Walker (njihova prva zajednička suradnja od filma “Seven”), su se odlučili za vrlo tajanstven pristup ne nudeći nikakva objašnjenja i odgovore, lišivši glavnog lika bilo kakve motivacijske strukture, krcajući film žestokim nihilizmom.",1,1,1
 6,62,6211,"Iako naša mašina za klanje u interakciji s drugim likovima jedva da i progovori kao narator ne može prestat brbljat blebećući o apsolutno svemu- citira Popeyea, divi se Green River Killeru, uspoređuje se sa igračima bejzbola, čak i sanja kako će se njegova garaža jednog dana pojaviti na Storage Wars, pa iako ima pokoja zgodna rečenica poput „Nevjerojatno je fizički naporno ne raditi ništa,“ što film dalje odmiče zamor Fassbenderovim glasom koji priča kao da je AI program postaje sve veći do točke da poželite gledati nijemi film.",1,1,1
 6,62,6212,"U rukama nekog iole manje talentiranog autora “The Killer“ bi zasigurno bila havarija mitskih proporcija, međutim Fincher je i ovdje dokazao da je istinski filmski korifej s obzirom da je od uratka vrlo bazične premise, bolno pretencioznih monologa i infantilne mizantropije najčešće viđene kod hormonima napucanih anarhistički nastrojenih pubertetlija uspio snimiti relativno kvalitetno djelo ponajprije zahvaljujući besprijekornoj tehničkoj izvedbi na svim razinama od kadriranja, kamere, tona, autentičnih lokacija, gotovo nikakvog korištenja CGI-a pa sve do vrlo predane Fassbenderove uloge koji se nakon Jenny Ortege u seriji “Wednesday” priključio novom prilično stupidnom holivudskom trendu u kojem glumac ne smije trepnuti na ekranu.",2,0,2
@@ -719,7 +719,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 6,63,6312,Nakon toga Ubojica odlučuje pronaći i osvetiti se onima koji su se usudili taknuti u njegov privatan život.,2,2,2
 6,63,6313,"Film je podijeljen u šest poglavlja i epilog, koji praktički funkcioniraju kao zasebne mini-priče.",2,2,2
 6,63,6314,"Filmovi o plaćenim ubojicama nerijetko budu jako zamršeni, s raznim podzapletima i beskrajnim preokretima koji onda i gube taj element iznenađenja, pa je jednostavna radnja ""Ubojice"" u tom pogledu osvježavajuća.",0,0,0
-6,63,6315,"Događaji se kreću linearno, jedan za drugim, pa čak i oni koji se izgube u najjednostavnijim filmovima ovdje ne bi trebali imati problema s praćenjem radnje.",0,0,0
+6,63,6315,"Događaji se kreću linearno, jedan za drugim, pa čak i oni koji se izgube u najjednostavnijim filmovima ovdje ne bi trebali imati problema s praćenjem radnje.",0,2,0
 6,63,6316,"Film zaokreće standardnu priču o plaćenim ubojicama, izostavljajući akcijske spektakle, eksplozije, dvostruke, trostruke i četverostruke agente te umjesto toga smješta film u svakodnevicu, svu njegovu monotonu prozaičnost.",2,2,2
 6,63,6316,Razmišljamo li ikad kakvu glazbu plaćeni ubojica sluša.,2,2,2
 6,63,6318,Kako provodi vrijeme dok čeka metu.,2,2,2
@@ -731,11 +731,11 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 6,63,6324,"Ubojica pati od one iste boljke koja prati hollywoodsku produkciju već duže vremena, a to je kao da imaju problema sa reprezentiranjem onog običnog.",1,1,1
 6,63,6325,"Ganja se kristalna čistoća kamere, stiliziranost okoliša, setovi domova čine se poput izložbenih prostorija u Ikei, a scene često izgledaju kao da tipiziraju razne situacije onako kako bi one idealno trebale izgledati, a ne kakve su u stvarnosti (što bi Baudrillard nazvao simulakrumom).",1,1,1
 6,63,6326,"Taj element slabo zahvaćene svakodnevice postaje još važniji kad se u obzir uzme Ubojičin komentar gdje se on svrstava među većinu ljudi, što znači da dijeli njihova razmišljanja i aspiracije.",1,1,1
-6,63,6327,"Ali kako to obično biva, svaki film ima jače i slabije aspekte. Što se tiče ""Ubojice"", jača strana se definitivno nalazi u akciji koja nakon sporog početka napokon dopušta da film prodiše.",2,2,2
+6,63,6327,"Ali kako to obično biva, svaki film ima jače i slabije aspekte - što se tiče ""Ubojice"", jača strana se definitivno nalazi u akciji koja nakon sporog početka napokon dopušta da film prodiše.",2,0,2
 6,63,6328,"Tu se posebno ističe odlična scena tuče koja je fantastično koordinirana, tim više što se koristila širokokutna perspektiva i razmjerno duži rezovi, dok su oni kraći nenametljivo spojeni u postprodukciji, pa možemo kontinuirano pratiti nemilosrdno šaketanje.",0,0,0
 6,63,6329,"Kada se k tome još pridodaju nagli izljevi nasilja, Fincher nas udaljava od bilo kakve sigurnosti te u drugom dijelu filma stvara vrlo opipljiv osjećaj napetosti koji plijeni pozornost i tvori jedan solidan film.",0,0,0
 6,63,6330,"Fassbender uvjerljivo utjelovljuje lik od svijeta otuđenog ubojice, cijelo vrijeme zadržavajući leden izraz lica, bez ikakve ekspresije koja bi odala da on nešto osjeća.",0,0,0
-6,63,6331,Jedine emocije za koje bi se moglo reći da on zapravo osjeća jesu dosada (koju Fincher u gotovo 4D postupku u prvom poglavlju prenosi i na publiku) te osvetoljubivost.,0,0,0
+6,63,6331,Jedine emocije za koje bi se moglo reći da on zapravo osjeća jesu dosada (koju Fincher u gotovo 4D postupku u prvom poglavlju prenosi i na publiku) te osvetoljubivost.,2,0,0
 6,63,6332,"U njegovom slučaju, izraz da je osveta jelo koje se najbolje poslužuje hladno poprima mnogo doslovniju dimenziju jer Ubojica cijelo vrijeme daje do znanja da ništa od njegovog krvavog pohoda nije osobno. Što ga onda zapravo motivira.",2,2,2
 6,63,6333,Principi.,2,2,2
 6,63,6334,Prkos.,2,2,2
@@ -747,7 +747,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 6,63,6340,"Svi elementi koji tu atmosferu grade, od Ubojičinih unutarnjih monologa i brutalnog nasilja do opresivne drone glazbe i brojnih noćnih scena, kao da čine različite slojeve koji ne liježu skladno u cjelinu koja bi se izdigla iznad pojedinačnih elemenata.",1,1,1
 6,63,6341,"Ali film na sreću funkcionira i kao napet triler, pa ne valja biti previše oštar prema Fincherovoj ""Ubojici"", posebno kad se uzme u obzir kakvi se sve trileri znaju štancati.",0,2,2
 6,64,641,"Prije par dana na Netflix je napokon stigao dugoočekivani film The Killer, redatelja Davida Finchera s Michaelom Fassbenderom u glavnoj ulozi.",0,2,2
-6,64,642,Riječ je o napetom trileru o plaćenom ubojici koji ulazi u opasnu borbu nakon neuspjelog posla.,2,2,2
+6,64,642,Riječ je o napetom trileru o plaćenom ubojici koji ulazi u opasnu borbu nakon neuspjelog posla.,2,0,2
 6,64,643,Ubojica koji sluša The Smithse.,2,2,2
 6,64,644,"Michael Fassbender, kojem nikad ne saznamo ime, je plaćeni ubojica koji je unajmljen da ubije klijenta u Parizu.",2,2,2
 6,64,645,"Danima čeka u susjednoj zgradi promatrajući njegov stan, slušajući The Smithse i čekajući pravi trenutak za obaviti posao.",2,2,2
@@ -774,27 +774,26 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 7,71,718,Bilo je smiješno kako me priča malo podsjetila na jedan drugi južnokorejski film u kojem je također ostao stan nakon jakog potresa pod nazivom Concrete Utopia.,2,2,2
 7,71,719,"Očigledno nakon što sam pročitao na internetu, ovo je doista bio nastavak tog filma, iako mislim da je ovo bio samostalan jer se ovdje nisu pojavili likovi iz originalnog filma.",2,2,2
 7,71,7110,"U svakom slučaju, film je počeo prilično vedro s malo pozadine o Doktoru i nekim lakšim trenucima kada su predstavljeni Nam-san i Ji-wan.",2,2,2
-7,71,7111,Ali uzbudljivi trenuci su došli kada je Nam-san počeo pokazivati svoje nevjerojatne borilačke vještine.,0,0,0
+7,71,7111,Ali uzbudljivi trenuci su došli kada je Nam-san počeo pokazivati svoje nevjerojatne borilačke vještine.,0,2,0
 7,71,7112,"Koristeći svoje krupno tijelo i očiglednu snagu, uspio je s lakoćom izbaciti negativce.",2,2,2
 7,71,7113,"Nakon toga, zaplet je postao prilično standardan i odmah sam mogao vidjeti kamo ide.",1,1,1
 7,71,7114,"Ipak, uz povremene akcijske sekvence s vremena na vrijeme, u kombinaciji s neočekivanim sposobnostima neprijatelja učinili su ih vrlo zabavnima.",0,0,0
 7,71,7115,"Za razliku od svog prethodnika, ovaj se film više fokusirao na akciju nego na dramu.",2,2,2
 7,71,7116,"Nisam siguran kako bi ljudi gledali na to, ali ja sam osobno jako uživao jer sam veliki obožavatelj akcijskih filmova.",0,0,0
 7,71,7117,Posebno s Ma Dong-seokom koji je uvijek pokazivao svoje nevjerojatne borbene sposobnosti zadovoljavajuće za nas koji volimo akcije.,0,0,0
-7,71,7118,"Iako je prikazano da je njegov lik sličan njegovim drugim filmovima, dobrodušni veliki tip koji se nikada nije bojao suočiti s mnogo ljudi sam i ponekad je pružao malo humora.",0,0,0
+7,71,7118,"Iako je prikazano da je njegov lik sličan njegovim drugim filmovima, dobrodušni veliki tip koji se nikada nije bojao suočiti s mnogo ljudi sam i ponekad je pružao malo humora.",0,2,0
 7,71,7119,Ali ona koja me se dojmila bila je An Ji-hye svojom izvanrednom borilačkom vještinom.,0,0,0
 7,71,7120,Pročitao sam da je 99% sama odradila štos što me još više zadivilo.,0,0,0
 7,71,7121,"Osim toga, tu su bili sporedni likovi poput narednika Kwona (Park Ji-hoon – TV serija Najgori od zla itd.), Tigra (Park Hyo-joon – Loši momci: Vladavina kaosa itd.), učitelja (Jang Young-nam – Povjerljivo Zadatak, TV serija Captivating the King itd.), dama s nakitom (Jung Young-joo – Cafe Midnight, TV serija A Good Day to be a Dog itd.) koja je pružala humor.",2,2,2
 7,71,7122,"Tijekom uvodne i završne špice, ja osobno nisam mogao vidjeti nikakve korisne informacije jer su gotovo sve bile na korejskom jeziku.",1,2,2
-7,71,7123,"Tijekom uvodne i završne špice, ja osobno nisam mogao vidjeti nikakve korisne informacije jer su gotovo sve bile na korejskom jeziku.",1,1,1
-7,71,7124,Uopće nije bilo središnjih ili završnih odjavnih scena.,1,1,1
-7,71,7125,"Ali vidio sam da postoji prilično veliki tim za vizualne efekte, što je bilo razumljivo s nekim CGI-jem koji prikazuje stanje posljedica u Južnoj Koreji nakon potresa plus akcijsku sekvencu.",2,2,2
-7,71,7126,"Btw, akcija je bila brza, brutalna i dosta grafika.",0,0,0
-7,71,7127,Mislim da je redatelj Heo Myung-haeng (u svom redateljskom debiju) želio naglasiti nemilosrdnost borbi.,2,2,2
-7,71,7128,"Njegov stil režije u tim akcijskim scenama bio je pomno praćenje ljudi i prebacivanje na drugu kameru kada je to bilo potrebno, ali nije koristio nikakve usporene efekte u određenim scenama.",2,2,2
-7,71,7129,To je sigurno učinilo da osjećamo da su borbe vrlo brze i intenzivne.,0,0,0
-7,71,7130,"Sve u svemu, ovo bi mogao biti inferioran nastavak za ljude koji su očekivali istu vrstu drame, intenziteta i dubine likova, ali bi definitivno bio vrlo ugodan za ljubitelje akcije poput mene.",0,2,2
-7,71,7131,"Dakle, ako vam se sviđaju stilovi borbe Ma Dong-seoka, ovo bi vas zabavilo jer je pokazao sve prave poteze, ali ako očekujete tešku dramu onda je ovdje nećete pronaći.",2,2,2
+7,71,7123,Uopće nije bilo središnjih ili završnih odjavnih scena.,1,1,1
+7,71,7124,"Ali vidio sam da postoji prilično veliki tim za vizualne efekte, što je bilo razumljivo s nekim CGI-jem koji prikazuje stanje posljedica u Južnoj Koreji nakon potresa plus akcijsku sekvencu.",2,2,2
+7,71,7125,"Btw, akcija je bila brza, brutalna i dosta grafika.",0,2,0
+7,71,7126,Mislim da je redatelj Heo Myung-haeng (u svom redateljskom debiju) želio naglasiti nemilosrdnost borbi.,2,2,2
+7,71,7127,"Njegov stil režije u tim akcijskim scenama bio je pomno praćenje ljudi i prebacivanje na drugu kameru kada je to bilo potrebno, ali nije koristio nikakve usporene efekte u određenim scenama.",2,2,2
+7,71,7128,To je sigurno učinilo da osjećamo da su borbe vrlo brze i intenzivne.,0,0,0
+7,71,7129,"Sve u svemu, ovo bi mogao biti inferioran nastavak za ljude koji su očekivali istu vrstu drame, intenziteta i dubine likova, ali bi definitivno bio vrlo ugodan za ljubitelje akcije poput mene.",0,2,2
+7,71,7130,"Dakle, ako vam se sviđaju stilovi borbe Ma Dong-seoka, ovo bi vas zabavilo jer je pokazao sve prave poteze, ali ako očekujete tešku dramu onda je ovdje nećete pronaći.",2,2,2
 8,81,811,"S razlogom recenzenti ažurniji od mene film Air (2023) – o stvaranju tržišne marke Air Jordan, dovode u vezu s filmom Tetris (2023) – o licenciranju prava na dugovječnu igricu.",2,2,2
 8,81,812,"Kao prvo, oba filma su producirala nov (tj. streaming) studiji.",2,2,2
 8,81,813,"Air je djelo Amazon studios, a Tetris Apple TV-ja, a razlika među njima vidljiva je samo u kalibru glumaca.",2,2,2
@@ -810,7 +809,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 8,81,8113,"Ali kao lik, Hank je zarobljen u ponavljanju istih trikova i fora koje se vrlo brzo izližu.",1,1,1
 8,81,8114,"Kada je god suočen s problemom, Henk pričeka pred zgradom i ušulja se unatoč odbijenici ili slijedi osobu s kojom je želio razgovarati po izlasku.",2,2,2
 8,81,8115,Stalno.,2,2,2
-8,81,8116,I neprestano.,2,2,2
+8,81,8116,I neprestano.,1,2,2
 8,81,8117,"Zbog zamornosti istih rješenja, ni Egertonov šarm više ne može osvojiti.",1,1,1
 8,81,8118,"Štoviše, sam izbor Henka kao protagonista je izlizan i prožvakan odabir.",1,1,1
 8,81,8119,Tko je više iznenađen vidjeti da ambiciozan Amerikanac krši pravila i onoliko drsko koliko i smiono uspijeva postati multimilijarder?,1,1,1
@@ -826,10 +825,10 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 8,81,8129,A možda bi i izbjegao razočaravajuć kraj.,1,1,1
 8,81,8130,Navikli smo na karticama po završetku filma pročitati neku razdražujuću informaciju koja nas dodatno uvjerava da ima stvari na ovom svijetu koje su veće i od filma.,2,2,2
 8,81,8131,"U filmu Tetris, kao i u prije spomenutom filmu Air ono dodatno što nas treba osvojiti na kraju su brojevi nula koje su naši lukavi protagonisti uspjeli zaraditi.",2,2,2
-8,81,8132,"Tetris je zabavan film, ali je za razliku od igre na kojoj se temelji potpuno zaboravljiv.",1,1,1
+8,81,8132,"Tetris je zabavan film, ali je za razliku od igre na kojoj se temelji potpuno zaboravljiv.",1,2,1
 8,81,8133,A to je mana koju je teško oprostiti.,1,1,1
 9,91,911,"“Od svih ljudi koje ste mogli prevariti, vi ste odabrali Johna Kramera?”",2,2,2
-9,91,912,"Kada je 2004. godine redatelj James Wan snimio „Slagalicu strave“, svoj tek drugi dugometražni film u karijeri, teško da je mogao zamisliti kako je to tek početak stvaranja jedne kultne horor franšize.",2,2,2
+9,91,912,"Kada je 2004. godine redatelj James Wan snimio „Slagalicu strave“, svoj tek drugi dugometražni film u karijeri, teško da je mogao zamisliti kako je to tek početak stvaranja jedne kultne horor franšize.",0,2,2
 9,91,913,"Tijekom ovih, sad već skoro dvadeset godina, snimljeno je ukupno osam nastavaka od kojih se nijedan nije uspio, barem donekle, približiti vrijednosti i kvaliteti originala.",1,1,1
 9,91,914,"Međutim, ono što jest povezivalo sve te filmove, posebice po pitanju obožavanja, bio je zaštitni znak franšize – Jigsaw.",2,0,2
 9,91,915,"Zapravo, nekako mi se čini kako su svi obožavatelji „Slagalice“, a među koje i sam pripadam, uvijek nekako subjektivno gledali i na neke nekvalitetne filmove iz serijala, opraštajući im sve mane, i to ponajviše zbog Jigsawa.",1,2,2
@@ -848,7 +847,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 9,91,9118,"Prethodno je režirao filmove „Saw VI“ te „Saw 3D“, a što mu, ako ćemo realno, i nije bila baš neka preporuka.",1,1,1
 9,91,9119,"No, zato je po pitanju montaže itekako ostavio traga.",0,0,0
 9,91,9120,"Jer, ako mene pitate, upravo montaža najviše dolazi do izražaja kada je u pitanju kreativnost novih Jigsaw igrica u koje upadaju njegove žrtve.",0,0,0
-9,91,9121,"U tome se i krije uspjeh serijala, jer koliko god možda same priče određenih filmova i nisu bile na najvišem nivou, domišljatost po pitanju klopki, odnosno načina na koji su prikazane, glavni je razlog zbog kojeg se publika i dalje želi igrati s Jigsawom, bez obzira na posljedice.",2,2,2
+9,91,9121,"U tome se i krije uspjeh serijala, jer koliko god možda same priče određenih filmova i nisu bile na najvišem nivou, domišljatost po pitanju klopki, odnosno načina na koji su prikazane, glavni je razlog zbog kojeg se publika i dalje želi igrati s Jigsawom, bez obzira na posljedice.",2,0,2
 9,91,9122,"No, koliko god smo puta svi mi ljubitelji ispali pravi mazohisti po pitanju obožavanja franšize i koliko god se pitali da li uopće ima smisla snimati ukupno deseti „Saw“ film, izgleda kako smo ipak dobili zasluženu nagradu za sve ono što smo prethodno pretrpili.",0,2,2
 9,91,9123,"Istina, za to smo trebali čekati dugo vremena, nešto poput navijača Napolija na novi Scudetto, ali isplatilo se.",0,2,2
 9,91,9124,"Jer, Saw X, nogometnim žargonom, i jest pravi horor Scudetto.",0,0,0
@@ -874,9 +873,9 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 9,91,9144,"I tada se mi, i to po prvi put, ne pitamo što bi napravili da se izvučemo iz igre koju nam je postavio John Kramer, već što bi napravili da smo mi John Kramer.",2,2,2
 9,91,9145,"Dakle, koncept preživljavanja je praktički isti, samo s izmijenjenim ulogama.",2,2,2
 9,91,9146,Tobin Bell je bez ikakve dileme odigrao najbolju ulogu kada je u pitanju serijal.,0,0,0
-9,91,9147,"Spomenuo sam kako za razumijevanje filma nije potrebno gledati prethodne nastavke, ali ako ste veliki ljubitelj njegovog lika i (ne)djela, onda ćete upravo kroz ovaj film moći sagledati sve moralne posljedice s kojima se suočava.",0,0,0
+9,91,9147,"Spomenuo sam kako za razumijevanje filma nije potrebno gledati prethodne nastavke, ali ako ste veliki ljubitelj njegovog lika i (ne)djela, onda ćete upravo kroz ovaj film moći sagledati sve moralne posljedice s kojima se suočava.",2,0,0
 9,91,9148,"I ne samo to, doslovno ćete biti fascinirani dok upoznajete sve ono što ga zapravo pokreće.",0,0,0
-9,91,9149,"Način na koji on promatra svijet, kontekst zašto je on posvećen svemu onome što radi, te zašto vjeruje da je to ujedno i dobro za čovječanstvo, sve to imamo u njegovom opisu karaktera kojeg smo tek sad upoznali u svakom mogućem pogledu.",0,0,0
+9,91,9149,"Način na koji on promatra svijet, kontekst zašto je on posvećen svemu onome što radi, te zašto vjeruje da je to ujedno i dobro za čovječanstvo, sve to imamo u njegovom opisu karaktera kojeg smo tek sad upoznali u svakom mogućem pogledu.",2,0,0
 9,91,9150,I nije on jedini.,2,2,2
 9,91,9151,"Naime, tu je još i povratnica Amanda (jako dobra Shawnee Smith), a koja je također dobila složenost u svoj lik, a što je stvorilo i drugačiji pogled na nju, posebice kroz kontekst njenih budućih izbora.",0,0,0
 9,91,9152,"Također je zanimljiva dinamika odnosa između njih dvoje, posebno kada u relativno kratkom periodu vidimo Amandu koja propituje neke svoje odluke ali i izazove s kojima je njen „životni trener“ suočava.",0,0,0
@@ -889,7 +888,7 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 9,91,9159,"Svježinu koju je donio ovaj film ne nalazimo samo po pitanju karaktera Johna Kramera, već i po lokacijama na kojima se odvija radnja, posebice u kontekstu mitologije Asteka koja se suptilno spominje kroz rituale žrtvovanja i ikonografije.",0,0,0
 9,91,9160,"U tom pogledu lokacije se čine vjerodostojne, pogotovo kada nas redatelj upoznaje s nekim drevnim običajima, a koja je često koristio Kramer u svom radnom stažu.",0,0,0
 9,91,9161,"Također, izbor mjesta gdje se žrtve bore za preživljavanje također savršeno odgovaraju toj srednjovjekovnoj mitologiji.",0,0,0
-9,91,9162,"Lokacija dodatno pojačava opasnost, dok se same zamke čine poput zasebno nemilosrdnog lika.",0,0,0
+9,91,9162,"Lokacija dodatno pojačava opasnost, dok se same zamke čine poput zasebno nemilosrdnog lika.",0,2,0
 9,91,9163,"Za sve vas koji ste se pitali da li su zamke na visini zadatka, budite bez brige.",0,0,0
 9,91,9164,"Naime, one su kaotične, i to u pozitivnom smislu, potencijalno kultne, posebice ona u samom uvodu, nemilosrdne i sa puno više krvi.",0,0,0
 9,91,9165,"I ono najbitnije, vjerodostojne su, tako da ni u jednom trenutku nećete pomislit kako iza svega ne stoji Jigsaw.",0,0,0
@@ -901,9 +900,9 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 9,91,9171,"A on je ovdje nenamjeran, nenametljiv, baš prirodan.",0,0,0
 9,91,9172,"Primjerice, kada Amanda i Kramer nešto kažu to možda i zvuči ozbiljno, ali kada znate kontekst onoga što planiraju napraviti, a pogotovo u smislu svega onoga što su radili kroz franšizu, onda to stvara u potpunosti drugačiji pogled na sve ono što su izgovorili.",0,0,2
 9,91,9173,"Kada su u pitanju mane filma, onda bih eventualno mogao izdvojiti ponavljanje po pitanju samih igrica, a što je, ruku na srce, teško i bilo izbjeći.",2,2,2
-9,91,9174,"Tu naravno ne mislim na kreativnost koja je za svaku pohvalu, već više u smislu onoga što smo već vidjeli puno puta.",2,2,2
+9,91,9174,"Tu naravno ne mislim na kreativnost koja je za svaku pohvalu, već više u smislu onoga što smo već vidjeli puno puta.",2,0,2
 9,91,9175,"Dakle, imamo predstavljanje određenog lika, nakon čega slijedi uljudan Jigsaw pozdrav i na kraju odbrojavanje kroz igru „živi ili umri“.",2,2,2
-9,91,9176,"U tom pogledu moram reći kako mi se puno više svidio prvi dio filma kada upoznajemo studiju karaktera lika Johna Kramera, dok je sve ovo ostalo manje-više nešto što smo i očekivali, izuzev jako dobrog obrata na samom kraju.",2,1,2
+9,91,9176,"U tom pogledu moram reći kako mi se puno više svidio prvi dio filma kada upoznajemo studiju karaktera lika Johna Kramera, dok je sve ovo ostalo manje-više nešto što smo i očekivali, izuzev jako dobrog obrata na samom kraju.",2,0,2
 9,91,9177,"No, to ne bih čak ni uzimao kao neki veliki nedostatak, već više kao zapažanje gdje mi je nešto inovativno ipak bilo zanimljivije od onoga na što sam već navikao, bez obzira koliko ovo potonje bilo brutalno i krvavo.",1,2,2
 9,91,9178,"Također, s obzirom na vremenski odmak filma u kojem se odvija radnja, mislim kako se trebalo paziti na izgled glavnih likova.",2,2,2
 9,91,9179,"I dok je Krameru taj odmak od skoro dvadeset godina itekako odgovarao, a što nije bilo teško postići šminkom jer ipak boluje od teške bolesti, to se definitivno ne može reći i za Amandu.",1,2,2
@@ -957,22 +956,21 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 9,93,9316,"Serijal se, dakle, pogubio nakon smrti antagonista, a jednostavna formula se izlizala, pa su ljudi koji su od Wana i kokreatora Leigha Whannella preuzeli unosnu franšizu izbacivali su mlake kopije koje su unatoč oštrim kritikama i dalje zgrtale dovoljno novca.",2,2,2
 9,93,9317,"Posljednji izdanak, pandemijski “Spiral” iz 2021. ubačen je u žanr kriminalističkog trilera s Chrisom Rockom u rijetkoj ozbiljnoj ulozi, ali kritika mu je pokazala kolektivni palac prema dolje.",1,1,1
 9,93,9318,"Ipak, film je zaradio dvostruko više od budžeta i zeleno svjetlo za deseti nastavak, ali što uopće smisliti nakon toliko epizoda?",0,0,0
-9,93,9319,Molimo prihvatite suglasnost za kolačiće,2,2,2
-9,93,9320,"Prije svega, redatelj Kevin Greutert (koji prethodno potpisuje šesti, jedan od bolje ocijenjenih nastavaka franšize) i scenaristički par koji čine Josh Stolberg i Peter Goldfinger, odlučili su se za povratak korijenima, odnosno elementu koji je izvorne filmove činio boljima, a to je Jigsaw glavom i bradom te njegov originarlni tumač Tobin Bell.",0,0,0
-9,93,9321,"Radnja filma smještena u vremenski okrvir između prva dva nastavka, a za razliku od njih u svojoj prvoj polovici ima tradicionalnu narativnu formu u kojemu Johna Kramera pratimo u nastojanju da se van službenih kanala javnog zdravstva izliječi od tumora mozga koji ga ubija.",2,2,2
-9,93,9322,"Za to nalazi eksperimentalnu kliniku koja djeluje u Meksiku, no ispostavi se da su u pitanju amoralni prevaranti koji se bogate na lakovjernim umirućim pacijentima, a Kramer ne voli nasjedati na takve fore.",2,2,2
-9,93,9323,"Ono što voli jest kažnjavanje takvih spodoba, pa se cijeli drugi dio filma pretvara u ono po čemu je “Saw” postao slavan, a to je mučenje kompleksnim napravama u igrama koje svoje igrače tjeraju da si primjerice otpile nogu ili izvade pozamašan komad mozga.",2,2,2
-9,93,9324,"“Tko bi to uopće htio gledati?”, vape stotine zgroženih glasova od kojih je dobrim dijelom projekcije jedan bio i moj vlastiti.",1,1,1
-9,93,9325,Zašto se podvrgavati takvim vizualnim užasima?,1,1,1
-9,93,9326,"Premda odgovor na ta pitanja i dalje nemam, publika je i dalje spremna trošiti novac na kinoulaznice kako bi se tim stravama uvijek iznova podvrgavala.",1,2,2
-9,93,9327,"Ono što je najzanimljivije u cijelom eksperimentu ipak je činjenica da je “Saw X” mnogo smisleniji i bolji film od gotovo svih koji su mu prethodili, izuzevši izvorišni film koji je postavio temelje i donio određene spomenute inovacije u kinematografiju žanra strave i užasa.",0,0,0
-9,93,9328,Najveći uspjeh tvoraca jest to da su nakon toliko godina od Kramera/Jigsawa uspjeli stvoriti gotovo pozitivnog lika koji se svojim sadističkim napravama samo osvećuje pravim moralnim nakazama koje predvodi nevjerojatno zla Cecilia Pederson (igra je norveška glumica Synnøve Macody Lund).,0,0,0
-9,93,9329,U serijal se vraća i Shawnee Smith kao Kramorova šegrtica Amanda Young i njih dvoje provest će u plan neke od najodvratnijih Jigsawovih smicalica dosad.,1,2,2
-9,93,9330,Najveću zamjerku može se zapravo uputiti neobično antiklimatičnom kraju čiji bljutav okus ne uspijeva isprati ni mid-credits vinjeta koja barem zatvara dotad nerazriješenu točku zapleta.,1,1,1
-9,93,9331,"Što reći na kraju, isplati li se uopće pogledati “Saw X”?",2,1,2
-9,93,9332,"Odgovor leži u smještanju ovog osvrta u našu rubriku “3,6 rendgena” u kojoj filmove ocjenjujemo kao one koji pripadaju kategoriji “not great, not terrible.” Ako imate želuca za takve stvari, možda je u pitanju jedan od rijetkih nastavaka franšize koji nisu doista loši, pa ga stoga ne treba izbjegavati.",2,2,2
-9,93,9333,"Ako, pak, niste skloni živopisnim prikazima odvratnih činova automutilacije i doslovnim hektolitrima krvi koji se izlijevaju po ekranu onda vjerojatno niste ciljana publika za ovu franšizu i nećete uživati ni u ovom filmu.",1,1,1
-9,93,9334,"Ali, kako uporno dokazuju blagajne – ima tko hoće.",0,0,0
+9,93,9319,"Prije svega, redatelj Kevin Greutert (koji prethodno potpisuje šesti, jedan od bolje ocijenjenih nastavaka franšize) i scenaristički par koji čine Josh Stolberg i Peter Goldfinger, odlučili su se za povratak korijenima, odnosno elementu koji je izvorne filmove činio boljima, a to je Jigsaw glavom i bradom te njegov originarlni tumač Tobin Bell.",0,0,0
+9,93,9320,"Radnja filma smještena u vremenski okrvir između prva dva nastavka, a za razliku od njih u svojoj prvoj polovici ima tradicionalnu narativnu formu u kojemu Johna Kramera pratimo u nastojanju da se van službenih kanala javnog zdravstva izliječi od tumora mozga koji ga ubija.",2,2,2
+9,93,9321,"Za to nalazi eksperimentalnu kliniku koja djeluje u Meksiku, no ispostavi se da su u pitanju amoralni prevaranti koji se bogate na lakovjernim umirućim pacijentima, a Kramer ne voli nasjedati na takve fore.",2,2,2
+9,93,9322,"Ono što voli jest kažnjavanje takvih spodoba, pa se cijeli drugi dio filma pretvara u ono po čemu je “Saw” postao slavan, a to je mučenje kompleksnim napravama u igrama koje svoje igrače tjeraju da si primjerice otpile nogu ili izvade pozamašan komad mozga.",2,2,2
+9,93,9323,"“Tko bi to uopće htio gledati?”, vape stotine zgroženih glasova od kojih je dobrim dijelom projekcije jedan bio i moj vlastiti.",1,1,1
+9,93,9324,Zašto se podvrgavati takvim vizualnim užasima?,1,1,1
+9,93,9325,"Premda odgovor na ta pitanja i dalje nemam, publika je i dalje spremna trošiti novac na kinoulaznice kako bi se tim stravama uvijek iznova podvrgavala.",1,2,2
+9,93,9326,"Ono što je najzanimljivije u cijelom eksperimentu ipak je činjenica da je “Saw X” mnogo smisleniji i bolji film od gotovo svih koji su mu prethodili, izuzevši izvorišni film koji je postavio temelje i donio određene spomenute inovacije u kinematografiju žanra strave i užasa.",0,0,0
+9,93,9327,Najveći uspjeh tvoraca jest to da su nakon toliko godina od Kramera/Jigsawa uspjeli stvoriti gotovo pozitivnog lika koji se svojim sadističkim napravama samo osvećuje pravim moralnim nakazama koje predvodi nevjerojatno zla Cecilia Pederson (igra je norveška glumica Synnøve Macody Lund).,0,0,0
+9,93,9328,U serijal se vraća i Shawnee Smith kao Kramorova šegrtica Amanda Young i njih dvoje provest će u plan neke od najodvratnijih Jigsawovih smicalica dosad.,1,2,2
+9,93,9329,Najveću zamjerku može se zapravo uputiti neobično antiklimatičnom kraju čiji bljutav okus ne uspijeva isprati ni mid-credits vinjeta koja barem zatvara dotad nerazriješenu točku zapleta.,1,1,1
+9,93,9330,"Što reći na kraju, isplati li se uopće pogledati “Saw X”?",2,1,2
+9,93,9331,"Odgovor leži u smještanju ovog osvrta u našu rubriku “3,6 rendgena” u kojoj filmove ocjenjujemo kao one koji pripadaju kategoriji “not great, not terrible"" - ako imate želuca za takve stvari, možda je u pitanju jedan od rijetkih nastavaka franšize koji nisu doista loši, pa ga stoga ne treba izbjegavati.",2,0,2
+9,93,9332,"Ako, pak, niste skloni živopisnim prikazima odvratnih činova automutilacije i doslovnim hektolitrima krvi koji se izlijevaju po ekranu onda vjerojatno niste ciljana publika za ovu franšizu i nećete uživati ni u ovom filmu.",1,1,1
+9,93,9333,"Ali, kako uporno dokazuju blagajne – ima tko hoće.",0,0,0
 9,94,941,"Saw X, Would you like to play a game?",2,2,2
 9,94,942,Sada je bio poticaj za 10 poglavlja u franšizi Saw.,2,2,2
 9,94,943,"Igra možda nije uvijek dobra, a vremenski slijed može biti vraški zamršen, ali gotovo 20 godina nakon što smo prvi put vidjeli kako je Lawrence Gordon iz Caryja Elwesa odrezao vlastitu nogu, redatelj Kevin Greutert i pisci Josh Stolberg i Pete Goldfinger isporučuju ono što na kraju završi kao najbolji ulazak u serijal sa Saw X.",2,2,2
@@ -983,8 +981,8 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 9,94,948,"Saw X počinje s njegovim likom, Johnom Kramerom koji saznaje da ima samo nekoliko mjeseci života.",2,2,2
 9,94,949,"(Nije vijest za gledatelje franšize, ali odmah je relevantna za ono što će se odvijati u filmu.)",2,2,2
 9,94,9410,"Pri kraju, Kramer se pridružuje grupi za podršku raka i upoznaje čovjeka po imenu Henry Kessler (Michael Beach) koji će mu kasnije ispričati o čudesnom lijeku protiv raka i da mu je to spasilo život.",2,2,2
-9,94,9411,"S obzirom da Saw nije fantastična priča, možete zamisliti kako cijela stvar izgleda.",2,2,2
-9,94,9412,"Upravo ta nada dodaje dodatnu razinu dubine u Saw X. Poanta ovdje nikada nije prikazati Kramera kao nekakvog pravednog osvetnika, u 10 filmova dobro znamo tko je on.",2,2,2
+9,94,9411,"S obzirom da Saw nije fantastična priča, možete zamisliti kako cijela stvar izgleda.",1,2,2
+9,94,9412,"Upravo ta nada dodaje dodatnu razinu dubine u Saw X - poanta ovdje nikada nije prikazati Kramera kao nekakvog pravednog osvetnika, u 10 filmova dobro znamo tko je on.",2,0,2
 9,94,9413,"Umjesto toga, treba ilustrirati stvarna zla svijeta uz nedjela fiktivnog lika.",2,2,2
 9,94,9414,"I čovječe, jesu li ljudi koji se nađu u njegovoj zamci u ovom filmu neshvatljivo jebeno vrijedni prezira.",2,2,2
 9,94,9415,"Ipak, Saw X nije samo istraživanje o tome koliko jadni ljudi mogu biti, također je riječ o snazi ​​nade i kakvom paklu možete otključati kada ga izdate.",2,2,2
@@ -997,12 +995,12 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 9,94,9422,"Ako ste nevini, ne morate se boriti za svoj život.",2,2,2
 9,94,9423,Prethodni Saw filmovi posustaju kada njihova pitanja o pravom značenju nevinosti postanu malo klimava i kada Kramerovi pomoćnici postanu previše sretni na okidaču.,2,2,2
 9,94,9424,"Svejedno dobrodošli natrag na Amandu Shawnee Smith, ali Saw X nije zainteresiran za nijanse sive, i to ovdje sasvim dobro služi svojoj svrsi.",2,2,2
-9,94,9425,"U tom pogledu, pravo tajno oružje Saw X je Cecilia Pederson (Synnøve Macody Lund).",2,2,2
+9,94,9425,"U tom pogledu, pravo tajno oružje Saw X je Cecilia Pederson (Synnøve Macody Lund).",0,2,2
 9,94,9426,Poanta ovih filmova možda nije da vas natjeraju da navijate za Jigsaw.,2,2,2
 9,94,9427,"Samo gadna, opaka, nesavjesna stvar koja testira Johnov kod više nego itko prije.",2,2,2
 9,94,9428,"Saw X neće osvojiti nikakve tehničke nagrade, ali priča ovdje i ovaj kratki rat između dva zla je samo posao.",2,2,2
 9,94,9429,Hoćete li se zaljubiti u Saw X u potpunosti ovisi o tome što tražite od ove franšize.,2,2,2
-9,94,9430,"Ako samo želite kvrgava ubojstva leđa uz leđa s vrlo malo priče, s ovim ćete se manje zabavljati.",2,2,2
+9,94,9430,"Ako samo želite kvrgava ubojstva leđa uz leđa s vrlo malo priče, s ovim ćete se manje zabavljati.",2,1,2
 9,94,9431,"Ali ako mislite da Saw najsjajnije blista kada prikazuje čovjekovo zlo dok im drugi zli čovjek pomaže da se muče (često do smrti), dobro ćete se zabaviti, film definitivno pogledajte u Cineplexx kinu!",2,0,2
 10,101,1011,"Kao netko tko je ludo zaljubljen u horor, moram priznati kako me najviše raduje otkrivanje novih filmaša koji svojim radom uspiju unijeti nešto novo i drugačije u, za mene, najbolji filmski žanr.",0,0,0
 10,101,1012,"Volim sve vezano za horor, a kada su u pitanju njegovi podžanrovi onda je izbor najdražeg vrlo jednostavan.",0,0,0
@@ -3259,4 +3257,4 @@ MovieID,ReviewID ,SentenceID,Sentence,A1,A2,A3
 29,291,29128,"Izuzev već spomenutog kraja, koji je zaista toliko dobar da praktički izvlači čitav film, zapamtio sam jednu pametno osmišljenu scenu bijega, dok je ostatak filma već sada u pomalo blijedom sjećanju.",2,2,2
 29,291,29129,"Imala je Bezgrešna potencijala, no na kraju sve je ostalo na tome, a od punih kinodvorana najviše će profitirati sama Sweeney – ako ništa zbog toga što je dokazala da može iznijeti glavnu ulogu oslanjajući se primarno na svoje glumačko znanje i glumačku vještinu.",2,1,2
 ,,,,,,
-,,,,,,38
+,,,,,,41
