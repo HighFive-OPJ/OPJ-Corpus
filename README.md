@@ -35,5 +35,5 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 | 1.b.i  |                            | K-Nearest Neighbors (KNN) | Train 1 or 2 or 3 / [respective own] | Precision: 0.5941, Recall: 0.6684, F1: 0.5544, Accuracy: 0.6684 | Precision: 0.4766, Recall: 0.5964, F1: 0.4870, Accuracy: 0.5964 | Precision: 0.5098, Recall: 0.6567, F1: 0.5366, Accuracy: 0.6567 |
 | 1.b.ii |                            | KNN                      | TRAIN                                | Precision: 0.5066, Recall: 0.6398, F1: 0.5233, Accuracy: 0.6398 | Precision: 0.5641, Recall: 0.6117, F1: 0.5479, Accuracy: 0.6117 |                                                               |
 
-<p>The best results for SVM shows Test-2 for all categories, except for the F1-Score, in this category best results are shown in Test-3. The best results in the TRAIN category shows Train-1</p>
-<p>The best results for KNN shows Test-2. In the TRAIN category in every category exept the Precision shows Train-1. Train-3 has the best result for Presicion.</p>
+<p>The best results for SVM shows Test-1 for all categories. The best results in the TRAIN category shows Train-1</p>
+<p>The best results for KNN shows Test-1, but Test-3 shows also good results. In the TRAIN category Train-1 shows best results in Recall and Accuracy and Train-2 shows best results in Precision and the F1-Score.</p>
