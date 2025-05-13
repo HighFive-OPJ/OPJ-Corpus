@@ -34,5 +34,10 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 | 1.b.ii |                            | KNN                      | TRAIN                                | Precision: 0.5066, Recall: 0.6398, F1: 0.5233, Accuracy: 0.6398 | Precision: 0.5641, Recall: 0.6117, F1: 0.5479, Accuracy: 0.6117 |                                                               |
 
 <p></p>
+| Name  | Age | Role       |
+|-------|-----|------------|
+| Alice | 25  | Developer  |
+| Bob   | 30  | Designer   |
+
 <p>The best results for SVM shows Test-2 for all categories, except for the F1-Score, in this category best results are shown in Test-3. The best results in the TRAIN category shows Train-1</p>
 <p>The best results for KNN shows Test-2. In the TRAIN category in every category exept the Precision shows Train-1. Train-3 has the best result for Presicion.</p>
