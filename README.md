@@ -25,57 +25,13 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 <p>https://github.com/HighFive-OPJ/OPJ-Corpus/blob/9415303240584f8f93e58f7c4a190b8b235388f2/Exploratory%20data%20analysis/Dataset.md</p>
 <p> We implemented our data with machine learning. We used SVM and KNN algorithms. </p>
 <p> These are the results:</p>
-<p> SVM: </p>
-<p>    - Test 1:</p>
-<p>      - Precision: 0.4308</p>
-<p>      - Recall: 0.5561</p>
-<p>      - F1-Score: 0.4724</p>
-<p>      - Accuracy: 0.5561</p>
-<p>    - Test 2:</p>
-<p>      - Precision: 0.6793</p>
-<p>      - Recall: 0.6620</p>
-<p>      - F1-Score: 0.5405</p>
-<p>      - Accuracy: 0.6620</p>
-<p>    - Test 3:</p>
-<p>      - Precision: 0.5154</p>
-<p>      - Recall: 0.6438</p>
-<p>      - F1-Score: 0.5563</p>
-<p>      - Accuracy: 0.6438</p>
-<p>    - Train 1:</p>
-<p>      - Precision: 0.5315</p>
-<p>      - Recall: 0.5402</p>
-<p>      - F1-Score: 0.5353</p>
-<p>      - Accuracy: 0.5402</p>
-<p>    - Train 3:</p>
-<p>      - Precision: 0.5301</p>
-<p>      - Recall: 0.5320</p>
-<p>      - F1-Score: 0.5303</p>
-<p>      - Accuracy: 0.5320</p>
-<p> KNN: </p>
-<p>    - Test 1:</p>
-<p>      - Precision: 0.3430</p>
-<p>      - Recall: 0.5816</p>
-<p>      - F1-Score: 0.6315</p>
-<p>      - Accuracy: 0.5816</p>
-<p>    - Test 2:</p>
-<p>      - Precision: 0.5772</p>
-<p>      - Recall: 0.6479</p>
-<p>      - F1-Score: 0.6100</p>
-<p>      - Accuracy: 0.6479</p>
-<p>    - Test 3:</p>
-<p>      - Precision: 0.5219</p>
-<p>      - Recall: 0.6309</p>
-<p>      - F1-Score: 0.5392</p>
-<p>      - Accuracy: 0.6309</p>
-<p>    - Train 1:</p>
-<p>      - Precision: 0.3086</p>
-<p>      - Recall: 0.5556</p>
-<p>      - F1-Score: 0.3968</p>
-<p>      - Accuracy: 0.5556</p>
-<p>    - Train 2:</p>
-<p>      - Precision: 0.4862</p>
-<p>      - Recall: 0.4912</p>
-<p>      - F1-Score: 0.3570</p>
-<p>      - Accuracy: 0.4912</p>
+<p></p>
+| #       | Method                    | Algorithm                  | Train                               | Test 1: Group 1                                | Test 2: Group 2                                | Test 3: Group 3                                |
+|--------|----------------------------|-----------------------------|--------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| 1.a.i  | Machine learning (2 methods) | SVM                         | Train 1 or 2 or 3 / [respective own] | Precision: 0.6301  Recall: 0.6684  F1: 0.5532  Accuracy: 0.6684 | Precision: 0.5402  Recall: 0.6099  F1: 0.4935  Accuracy: 0.6099 | Precision: 0.4200  Recall: 0.6481  F1: 0.5097  Accuracy: 0.6481 |
+| 1.a.ii |                            | SVM                         | TRAIN                                | Precision: 0.6119  Recall: 0.6782  F1: 0.6182  Accuracy: 0.6782 | Precision: 0.5699  Recall: 0.6222  F1: 0.5624  Accuracy: 0.6222 |                                                |
+| 1.b.i  |                            | K-Nearest Neighbors (KNN)   | Train 1 or 2 or 3 / [respective own] | Precision: 0.5941  Recall: 0.6684  F1: 0.5544  Accuracy: 0.6684 | Precision: 0.4766  Recall: 0.5964  F1: 0.4870  Accuracy: 0.5964 | Precision: 0.5098  Recall: 0.6567  F1: 0.5366  Accuracy: 0.6567 |
+| 1.b.ii |                            | KNN                         | TRAIN                                | Precision: 0.5066  Recall: 0.6398  F1: 0.5233  Accuracy: 0.6398 | Precision: 0.5641  Recall: 0.6117  F1: 0.5479  Accuracy: 0.6117 |                                                |
+<p></p>
 <p>The best results for SVM shows Test-2 for all categories, except for the F1-Score, in this category best results are shown in Test-3. The best results in the TRAIN category shows Train-1</p>
 <p>The best results for KNN shows Test-2. In the TRAIN category in every category exept the Precision shows Train-1. Train-3 has the best result for Presicion.</p>
