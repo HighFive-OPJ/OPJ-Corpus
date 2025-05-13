@@ -1,66 +1,84 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
+import csv
+from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score, confusion_matrix
 
-file_path = 'Train-1.tsv'
-data = pd.read_csv(file_path, sep='\t')
+file_path = 'Test-3.tsv'
+data = pd.read_csv(file_path, sep="\t", names=["Sentence", "Label"], skiprows=1, quoting=csv.QUOTE_NONE, encoding="utf-8")
+data.columns = data.columns.str.strip()
 
-X = data['Sentence']  
-y = data['Label']     
+data = data.dropna(subset=['Sentence', 'Label'])
+data['Sentence'] = data['Sentence'].astype(str)
 
-vectorizer = TfidfVectorizer(stop_words='english', ngram_range=(1, 2), max_features=5000)
+X = data['Sentence']
+y = data['Label']
+
+vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_features=5000)
 X_tfidf = vectorizer.fit_transform(X)
 
-X_train, X_test, y_train, y_test = train_test_split(X_tfidf, y, test_size=0.3, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(
+    X_tfidf, y, test_size=0.3, random_state=42, stratify=y)
 
 plt.figure(figsize=(8, 6))
-y.value_counts().plot(kind='bar', color='skyblue')
+y.value_counts().sort_index().plot(kind='bar', color='skyblue')
 plt.title('Class Distribution')
 plt.xlabel('Class')
 plt.ylabel('Frequency')
 plt.xticks(rotation=0)
-plt.show()
+plt.tight_layout()
+plt.savefig('class_distribution.png')
+plt.close()
 
-svm_model = SVC(kernel='linear', random_state=42, class_weight='balanced')
+svm_model = SVC(kernel='rbf', degree=3, random_state=42, class_weight='balanced')
 svm_model.fit(X_train, y_train)
-
 svm_predictions = svm_model.predict(X_test)
 
-svm_precision = precision_score(y_test, svm_predictions, average='weighted', zero_division=0)
-svm_recall = recall_score(y_test, svm_predictions, average='weighted', zero_division=0)
-svm_f1 = f1_score(y_test, svm_predictions, average='weighted', zero_division=0)
-svm_accuracy = accuracy_score(y_test, svm_predictions)
-
 print("SVM Model Performance:")
-print(f"Precision: {svm_precision:.4f}")
-print(f"Recall: {svm_recall:.4f}")
-print(f"F1-Score: {svm_f1:.4f}")
-print(f"Accuracy: {svm_accuracy:.4f}")
+print(f"Precision: {precision_score(y_test, svm_predictions, average='weighted', zero_division=0):.4f}")
+print(f"Recall:    {recall_score(y_test, svm_predictions, average='weighted', zero_division=0):.4f}")
+print(f"F1-Score:  {f1_score(y_test, svm_predictions, average='weighted', zero_division=0):.4f}")
+print(f"Accuracy:  {accuracy_score(y_test, svm_predictions):.4f}")
 
-knn_model = KNeighborsClassifier(n_neighbors=10)
-knn_model.fit(X_train, y_train)
+param_grid = {'n_neighbors': list(range(3, 21, 2))}
+knn = KNeighborsClassifier()
+grid_search = GridSearchCV(knn, param_grid, cv=5, scoring='accuracy')
+grid_search.fit(X_train, y_train)
 
-knn_predictions = knn_model.predict(X_test)
-
-knn_precision = precision_score(y_test, knn_predictions, average='weighted', zero_division=0)
-knn_recall = recall_score(y_test, knn_predictions, average='weighted', zero_division=0)
-knn_f1 = f1_score(y_test, knn_predictions, average='weighted', zero_division=0)
-knn_accuracy = accuracy_score(y_test, knn_predictions)
+best_knn = grid_search.best_estimator_
+knn_predictions = best_knn.predict(X_test)
 
 print("\nKNN Model Performance:")
-print(f"Precision: {knn_precision:.4f}")
-print(f"Recall: {knn_recall:.4f}")
-print(f"F1-Score: {knn_f1:.4f}")
-print(f"Accuracy: {knn_accuracy:.4f}")
+print(f"Best k:    {grid_search.best_params_['n_neighbors']}")
+print(f"Precision: {precision_score(y_test, knn_predictions, average='weighted', zero_division=0):.4f}")
+print(f"Recall:    {recall_score(y_test, knn_predictions, average='weighted', zero_division=0):.4f}")
+print(f"F1-Score:  {f1_score(y_test, knn_predictions, average='weighted', zero_division=0):.4f}")
+print(f"Accuracy:  {accuracy_score(y_test, knn_predictions):.4f}")
 
-print("\nConfusion Matrix for SVM Model:")
-svm_cm = confusion_matrix(y_test, svm_predictions)
-print(svm_cm)
+def plot_conf_matrix(cm, title, filename):
+    plt.figure(figsize=(6, 5))
+    plt.imshow(cm, interpolation='nearest', cmap=plt.cm.Blues)
+    plt.title(title)
+    plt.colorbar()
+    tick_marks = range(len(cm))
+    plt.xticks(tick_marks, tick_marks)
+    plt.yticks(tick_marks, tick_marks)
+    plt.xlabel('Predicted Label')
+    plt.ylabel('True Label')
 
-print("\nConfusion Matrix for KNN Model:")
-knn_cm = confusion_matrix(y_test, knn_predictions)
-print(knn_cm)
+    thresh = cm.max() / 2.
+    for i in range(cm.shape[0]):
+        for j in range(cm.shape[1]):
+            plt.text(j, i, str(cm[i, j]),
+                     ha='center', va='center',
+                     color='white' if cm[i, j] > thresh else 'black')
+
+    plt.tight_layout()
+    plt.savefig(filename)
+    plt.close()
+
+plot_conf_matrix(confusion_matrix(y_test, svm_predictions), 'SVM Confusion Matrix', 'svm_conf_matrix.png')
+plot_conf_matrix(confusion_matrix(y_test, knn_predictions), 'KNN Confusion Matrix', 'knn_conf_matrix.png')
