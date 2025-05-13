@@ -15,12 +15,12 @@ for filename in filenames:
             raise ValueError(f"Required columns not found in {filename}")
 
         for row in tsv_reader:
-            if len(row) > max(sentence_idx, label_idx):  # Ensure row has enough columns
+            if len(row) > max(sentence_idx, label_idx):  
                 TRAIN.add((row[sentence_idx], row[label_idx]))
 
 with open('Combined_Train.tsv', 'w', encoding='utf-8', newline='') as outfile:
     tsv_writer = csv.writer(outfile, delimiter='\t')
-    tsv_writer.writerow(["Sentence", "Label"])  # Write header
+    tsv_writer.writerow(["Sentence", "Label"])  
     for row in TRAIN:
         tsv_writer.writerow(row)
 
