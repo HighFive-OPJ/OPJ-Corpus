@@ -7,11 +7,20 @@ TRAIN = set()
 for filename in filenames:
     with open(filename, 'r', encoding='utf-8') as file:
         tsv_reader = csv.reader(file, delimiter='\t')
+        header = next(tsv_reader)
+        try:
+            sentence_idx = header.index("Sentence")
+            label_idx = header.index("Label")
+        except ValueError:
+            raise ValueError(f"Required columns not found in {filename}")
+
         for row in tsv_reader:
-            TRAIN.add(tuple(row))  
+            if len(row) > max(sentence_idx, label_idx):  # Ensure row has enough columns
+                TRAIN.add((row[sentence_idx], row[label_idx]))
 
 with open('Combined_Train.tsv', 'w', encoding='utf-8', newline='') as outfile:
     tsv_writer = csv.writer(outfile, delimiter='\t')
+    tsv_writer.writerow(["Sentence", "Label"])  # Write header
     for row in TRAIN:
         tsv_writer.writerow(row)
 
