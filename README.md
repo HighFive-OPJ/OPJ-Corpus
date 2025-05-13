@@ -13,14 +13,16 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 <p>We conducted a test on the Test set in which we calculated the average number of words per sentence, the largest and the smalest sentece. We also calculated the number of sentences per label in the Test set.</p>
 <p>The Test set statistics is as follows: </p>
 <p> - 653 total sentences</p>
-<p>Label Distribution: </p>
-<p>     - Label 0: 165</p>
-<p>     - Label 1: 58</p>
-<p>     - Label 2: 430</p>
-<p>Sentence Lenght (in words):</p>
-<p>     - Average: 21.33</p>
-<p>     - Shortest: 1</p>
-<p>     - Longest: 95</p>
+
+| Category             | Metric     | Value |
+|----------------------|------------|-------|
+| **Label Distribution** | Label 0    | 165   |
+|                      | Label 1    | 58    |
+|                      | Label 2    | 430   |
+| **Sentence Length**    | Average    | 21.33 |
+|                      | Shortest   | 1     |
+|                      | Longest    | 95    |
+
 <p>The results are saved in the file "Dataset.md" See link below. </p>
 <p>https://github.com/HighFive-OPJ/OPJ-Corpus/blob/9415303240584f8f93e58f7c4a190b8b235388f2/Exploratory%20data%20analysis/Dataset.md</p>
 <p> We implemented our data with machine learning. We used SVM and KNN algorithms. </p>
