@@ -50,3 +50,8 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 | 1.b   |                        | CNN model | Precision: 0.3971<br>Recall: 0.3785<br>F1-Score: 0.3727<br>Accuracy: 0.4502 | Precision: 0.5316<br>Recall: 0.5593<br>F1-Score: 0.5154<br>Accuracy: 0.5587 | Precision: 0.7699<br>Recall: 0.7596<br>F1-Score: 0.7614<br>Accuracy: 0.7591 |
 
 <p> Test 3 shows the best results for both LSTM and CNN model for all categories.</p>
+
+<p> When comparing the results with machine learning, SVM TRAIN offered the best F1-score and accuracy for Test 1 and Test 2 and showed the most consistent performance across all test group.</p>
+<p> LSTM offered good results in Test 3 when compared to other tests, where it underperformed. </p>
+<p> For Test 3, CNN offered the best results for all categories. </p>
+<p> KNN	showed moderate results throughout the tests, but never achieved the best results. </p>
