@@ -38,7 +38,7 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 <p>The best results for SVM shows Test-1 for all categories. The best results in the TRAIN category shows Train-1</p>
 <p>The best results for KNN shows Test-1, but Test-3 shows also good results. In the TRAIN category Train-1 shows best results in Recall and Accuracy and Train-2 shows best results in Precision and the F1-Score.</p>
 
-<p> **Deep Learning** </p>
+**Deep Learning**
 
 <p> We implemented our data with deep learning, using two algorithms - LSTM and CNN.</p>
 <p> We trained both models on the same training dataset and tested them on the test files. </p>
