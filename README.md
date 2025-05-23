@@ -40,7 +40,7 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 
 **Deep Learning**
 
-<p> We implemented our data with deep learning, using two algorithms - LSTM and CNN.</p>
+<p> We conducted deep learning using two algorithms - LSTM and CNN.</p>
 <p> We trained both models on the same training dataset and tested them on the test files. </p>
 <p> These are the results:</p>
 
