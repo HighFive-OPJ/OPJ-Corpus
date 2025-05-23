@@ -28,7 +28,7 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 <p> We implemented our data with machine learning. We used SVM and KNN algorithms. </p>
 <p> These are the results:</p>
 
-| #      | Method                     | Algorithm                | Train                                | Test 1: Group 1                                               | Test 2: Group 2                                               | Test 3: Group 3                                               |
+| #      | Method                     | Algorithm                | Train                                | Test 1: Group 1 (ours)                                             | Test 2: Group 2                                               | Test 3: Group 3                                               |
 |--------|----------------------------|--------------------------|--------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
 | 1.a.i  | Machine learning (2 methods) | SVM                      | Train 1 or 2 or 3 / [respective own] | Precision: 0.6301, Recall: 0.6684, F1: 0.5532, Accuracy: 0.6684 | Precision: 0.5402, Recall: 0.6099, F1: 0.4935, Accuracy: 0.6099 | Precision: 0.5677, Recall: 0.5714, F1: 0.5661, Accuracy: 0.5714 |
 | 1.a.ii |                            | SVM                      | TRAIN                                | Precision: 0.6119, Recall: 0.6782, F1: 0.6182, Accuracy: 0.6782 | Precision: 0.5699, Recall: 0.6222, F1: 0.5624, Accuracy: 0.6222 | Precision: 0.6070, Recall: 0.6073, F1: 0.6055, Accuracy: 0.6073 |
@@ -44,7 +44,7 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 <p> We trained both models on the same training dataset and tested them on the test files. </p>
 <p> These are the results:</p>
 
-| #     | Method                 | Algorithm | Test 1                                                  | Test 2                                                  | Test 3                                                  |
+| #     | Method                 | Algorithm | Test 1 (ours)                                               | Test 2                                                  | Test 3                                                  |
 |-------|------------------------|-----------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
 | 1.a   | Deep learning (2 methods) | LSTM      | Precision: 0.4087<br>Recall: 0.4031<br>F1-Score: 0.3565<br>Accuracy: 0.3859 | Precision: 0.4984<br>Recall: 0.4800<br>F1-Score: 0.4695<br>Accuracy: 0.5533 | Precision: 0.6785<br>Recall: 0.6755<br>F1-Score: 0.6735<br>Accuracy: 0.6759 |
 | 1.b   |                        | CNN model | Precision: 0.3971<br>Recall: 0.3785<br>F1-Score: 0.3727<br>Accuracy: 0.4502 | Precision: 0.5316<br>Recall: 0.5593<br>F1-Score: 0.5154<br>Accuracy: 0.5587 | Precision: 0.7699<br>Recall: 0.7596<br>F1-Score: 0.7614<br>Accuracy: 0.7591 |
