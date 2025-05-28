@@ -3,16 +3,17 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from gensim.models.fasttext import load_facebook_model
-from torch.utils.data import DataLoader, Dataset
+from torch.utils.data import DataLoader, Dataset, random_split
 import numpy as np
 
 FASTTEXT_PATH = "FastText.bin"
 TRAIN_PATH = "TRAIN.tsv"
-TEST_PATH = "Test-1.tsv"
+VALIDATION_PATH = "Test-1.tsv"  
 
 print("Učitavanje FastText modela...")
 ft_model = load_facebook_model(FASTTEXT_PATH)
 embedding_dim = ft_model.vector_size
+MAX_LEN = 100  
 
 def tokenize(text):
     return text.lower().split()
@@ -28,11 +29,10 @@ class FastTextDataset(Dataset):
     def __getitem__(self, idx):
         tokens = self.texts[idx]
         vectors = [ft_model.wv[token] if token in ft_model.wv else np.zeros(embedding_dim) for token in tokens]
-        max_len = 50
-        if len(vectors) > max_len:
-            vectors = vectors[:max_len]
+        if len(vectors) > MAX_LEN:
+            vectors = vectors[:MAX_LEN]
         else:
-            vectors += [np.zeros(embedding_dim)] * (max_len - len(vectors))
+            vectors += [np.zeros(embedding_dim)] * (MAX_LEN - len(vectors))
         return torch.tensor(vectors, dtype=torch.float32), torch.tensor(self.labels[idx], dtype=torch.long)
 
 class CNNClassifier(nn.Module):
@@ -60,23 +60,30 @@ class LSTMClassifier(nn.Module):
 
     def forward(self, x):
         _, (hn, _) = self.lstm(x)
-        x = torch.cat((hn[-2], hn[-1]), dim=1)  # concatenate forward and backward hidden states
+        x = torch.cat((hn[-2], hn[-1]), dim=1)
         x = self.dropout(x)
         return self.fc(x)
 
 print("Učitavanje podataka...")
 train_df = pd.read_csv(TRAIN_PATH, sep="\t").rename(columns={"Sentence": "text", "Label": "label"})
-test_df = pd.read_csv(TEST_PATH, sep="\t").rename(columns={"Sentence": "text", "Label": "label"})
+val_df = pd.read_csv(VALIDATION_PATH, sep="\t").rename(columns={"Sentence": "text", "Label": "label"})
+
 train_df["label"] = train_df["label"].astype(int)
-test_df["label"] = test_df["label"].astype(int)
+val_df["label"] = val_df["label"].astype(int)
+
+train_texts = train_df["text"].tolist()
+train_labels = train_df["label"].tolist()
+
+val_texts = val_df["text"].tolist()
+val_labels = val_df["label"].tolist()
 
 num_classes = train_df["label"].nunique()
 
-train_dataset = FastTextDataset(train_df["text"].tolist(), train_df["label"].tolist())
-test_dataset = FastTextDataset(test_df["text"].tolist(), test_df["label"].tolist())
+train_dataset = FastTextDataset(train_texts, train_labels)
+val_dataset = FastTextDataset(val_texts, val_labels)
 
 train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
-test_loader = DataLoader(test_dataset, batch_size=32)
+val_loader = DataLoader(val_dataset, batch_size=32)
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -121,8 +128,8 @@ for model_type in ["LSTM", "CNN"]:
 
     for epoch in range(1, 11):
         train_loss = train(model, train_loader, optimizer, criterion)
-        test_acc = evaluate(model, test_loader)
-        print(f"{model_type} | Epoch {epoch} | Loss: {train_loss:.4f} | Test Accuracy: {test_acc:.4f}")
+        val_acc = evaluate(model, val_loader)
+        print(f"{model_type} | Epoch {epoch} | Loss: {train_loss:.4f} | Validation Accuracy: {val_acc:.4f}")
 
     model_path = f"fasttext_{model_type.lower()}.pt"
     torch.save(model.state_dict(), model_path)
