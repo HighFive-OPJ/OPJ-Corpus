@@ -46,8 +46,8 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 
 | #     | Method                 | Algorithm | Test 1 (ours)                                               | Test 2                                                  | Test 3                                                  |
 |-------|------------------------|-----------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| 1.a   | Deep learning (2 methods) | LSTM      | Precision: 0.4087<br>Recall: 0.4031<br>F1-Score: 0.3565<br>Accuracy: 0.3859 | Precision: 0.4984<br>Recall: 0.4800<br>F1-Score: 0.4695<br>Accuracy: 0.5533 | Precision: 0.6785<br>Recall: 0.6755<br>F1-Score: 0.6735<br>Accuracy: 0.6759 |
-| 1.b   |                        | CNN model | Precision: 0.3971<br>Recall: 0.3785<br>F1-Score: 0.3727<br>Accuracy: 0.4502 | Precision: 0.5316<br>Recall: 0.5593<br>F1-Score: 0.5154<br>Accuracy: 0.5587 | Precision: 0.7699<br>Recall: 0.7596<br>F1-Score: 0.7614<br>Accuracy: 0.7591 |
+| 1.a   | Deep learning (2 methods) | LSTM      | Precision: 0.4114<br>Recall: 0.4006<br>F1-Score: 0.3621<br>Accuracy: 0.3982 | Precision: 0.5091<br>Recall: 0.4911<br>F1-Score: 0.4757<br>Accuracy: 0.5479 | Precision: 0.7101<br>Recall: 0.6905<br>F1-Score: 0.6899<br>Accuracy: 0.6898 |
+| 1.b   |                        | CNN model | Precision: 0.4023<br>Recall: 0.3577<br>F1-Score: 0.3388<br>Accuracy: 0.3675 | Precision: 0.5364<br>Recall: 0.5324<br>F1-Score: 0.5165<br>Accuracy: 0.6046 | Precision: 0.7824<br>Recall: 0.7776<br>F1-Score: 0.7738<br>Accuracy: 0.7768 |
 
 <p> Test 3 shows the best results for both LSTM and CNN model for all categories.</p>
 
