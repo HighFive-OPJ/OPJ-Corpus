@@ -59,10 +59,43 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 **Large Language Models**
 
 <p> Next, we focused on fine-tuning our dataset on BERT, using libraries from Hugging Face's transformers to simplify the process. The results are in a table below: </p>
-| #     | Method             | Algorithm     | Test 1                                                    | Test 2                                                    | Test 3                                                    |
-|-------|--------------------|---------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| 1     | Fine-tuned BERT    | BERT (custom) | Precision: 0.4445<br>Recall: 0.4440<br>F1-Score: 0.4442<br>Accuracy: 0.6141 | Precision: 0.5841<br>Recall: 0.5999<br>F1-Score: 0.5412<br>Accuracy: 0.5655 | Precision: 0.8264<br>Recall: 0.8274<br>F1-Score: 0.8263<br>Accuracy: 0.8272 |
-
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Method</th>
+      <th>Algorithm</th>
+      <th>Test 1</th>
+      <th>Test 2</th>
+      <th>Test 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Fine-tuned BERT</td>
+      <td>BERT (custom)</td>
+      <td>
+        Precision: 0.4445<br>
+        Recall: 0.4440<br>
+        F1-Score: 0.4442<br>
+        Accuracy: 0.6141
+      </td>
+      <td>
+        Precision: 0.5841<br>
+        Recall: 0.5999<br>
+        F1-Score: 0.5412<br>
+        Accuracy: 0.5655
+      </td>
+      <td>
+        Precision: 0.8264<br>
+        Recall: 0.8274<br>
+        F1-Score: 0.8263<br>
+        Accuracy: 0.8272
+      </td>
+    </tr>
+  </tbody>
+</table>
 <p> You can see the full results here: https://github.com/HighFive-OPJ/OPJ-Corpus/blob/main/Large%20language%20models_%20Implementation%203/results.md</p>
 
 <p> Evaluation Results show that the fine-tuned BERT model performed progressively better across the three tests. Among them, Test 3 demonstrated the best overall performance, achieving the highest macro-averaged scores with a Precision of 0.8264, Recall of 0.8274, F1-Score of 0.8263, and an Accuracy of 0.8272. In contrast, Test 1 and Test 2 showed moderate performance, with Test 1 scoring lower in all metrics and Test 2 displaying improved recall but less balanced results overall. These results suggest that the model generalizes better under the conditions represented in Test 3, due to differences in data distribution. </p>
