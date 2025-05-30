@@ -74,7 +74,7 @@ Group members: Ivana Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
     <tr>
       <td>1</td>
       <td>Fine-tuned BERT</td>
-      <td>BERT (custom)</td>
+      <td>BERT </td>
       <td>
         Precision: 0.4445<br>
         Recall: 0.4440<br>
