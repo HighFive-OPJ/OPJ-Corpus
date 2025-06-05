@@ -124,4 +124,4 @@ Group members: Ivona Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
 
 <p> Evaluation Results show that the fine-tuned BERT model performed progressively better across the three tests. Among them, Test 3 demonstrated the best overall performance, achieving the highest macro-averaged scores with a Precision of 0.8264, Recall of 0.8274, F1-Score of 0.8263, and an Accuracy of 0.8272. In contrast, Test 1 and Test 2 showed moderate performance, with Test 1 scoring lower in all metrics and Test 2 displaying improved recall but less balanced results overall. These results suggest that the model generalizes better under the conditions represented in Test 3, due to differences in data distribution. The same problem accures with the fine-tuned model BERTić. Both models show simmilar results, but BERT shows slightly better results.</p>
 
-<p>The URL to the demo file: https://huggingface.co/spaces/miasambolec/demo</p>
+<p>The URL to the demo file: https://huggingface.co/spaces/HighFive-OPJ/demo</p>
