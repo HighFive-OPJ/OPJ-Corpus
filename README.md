@@ -74,7 +74,7 @@ Group members: Ivona Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
     <tr>
       <td>1</td>
       <td>Fine-tuned BERT</td>
-      <td>BERT </td>
+      <td>BERT</td>
       <td>
         Precision: 0.4445<br>
         Recall: 0.4440<br>
@@ -94,8 +94,32 @@ Group members: Ivona Kollert, Lorena Mitrović, Marija Nadoveza, Ana Sabo, Mia S
         Accuracy: 0.8272
       </td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td>BERTić</td>
+      <td>BERTić</td>
+      <td>
+        Precision: 0.4200<br>
+        Recall: 0.4100<br>
+        F1-Score: 0.4200<br>
+        Accuracy: 0.5700
+      </td>
+      <td>
+        Precision: 0.5830<br>
+        Recall: 0.6130<br>
+        F1-Score: 0.5400<br>
+        Accuracy: 0.5600
+      </td>
+      <td>
+        Precision: 0.8230<br>
+        Recall: 0.8200<br>
+        F1-Score: 0.8200<br>
+        Accuracy: 0.8200
+      </td>
+    </tr>
   </tbody>
 </table>
+
 <p> You can see the full results here: https://github.com/HighFive-OPJ/OPJ-Corpus/blob/main/Large%20language%20models_%20Implementation%203/results.md</p>
 
 <p> Evaluation Results show that the fine-tuned BERT model performed progressively better across the three tests. Among them, Test 3 demonstrated the best overall performance, achieving the highest macro-averaged scores with a Precision of 0.8264, Recall of 0.8274, F1-Score of 0.8263, and an Accuracy of 0.8272. In contrast, Test 1 and Test 2 showed moderate performance, with Test 1 scoring lower in all metrics and Test 2 displaying improved recall but less balanced results overall. These results suggest that the model generalizes better under the conditions represented in Test 3, due to differences in data distribution. </p>
