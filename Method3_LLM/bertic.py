@@ -11,10 +11,8 @@ from transformers import (
 )
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 
-# Set seed for reproducibility
 set_seed(42)
 
-# === Load your dataset ===
 dataset = load_dataset("csv", delimiter="\t", data_files={
     "train": "data/train.tsv",
     "test_1": "data/test_1.tsv",
@@ -22,35 +20,29 @@ dataset = load_dataset("csv", delimiter="\t", data_files={
 test_2 = load_dataset("csv", delimiter="\t", data_files={"test": "data/test_2.tsv"})["test"]
 test_3 = load_dataset("csv", delimiter="\t", data_files={"test": "data/test_3.tsv"})["test"]
 
-# === Split train into train/validation ===
 full_train = dataset["train"].train_test_split(test_size=0.1, seed=12345)
 dataset_train = full_train["train"]
 dataset_valid = full_train["test"]
 
-# === Choose your transformer model ===
 model_name = "classla/bcms-bertic"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=3)
 
-# === Tokenization function ===
 def tokenize(batch):
     return tokenizer(batch["Sentence"], padding=True, truncation=True, max_length=128)
 
-# === Tokenize all datasets ===
 dataset_train = dataset_train.map(tokenize, batched=True)
 dataset_valid = dataset_valid.map(tokenize, batched=True)
 dataset["test_1"] = dataset["test_1"].map(tokenize, batched=True)
 test_2 = test_2.map(tokenize, batched=True)
 test_3 = test_3.map(tokenize, batched=True)
 
-# === Rename label column ===
 dataset_train = dataset_train.rename_column("Label", "labels")
 dataset_valid = dataset_valid.rename_column("Label", "labels")
 dataset["test_1"] = dataset["test_1"].rename_column("Label", "labels")
 test_2 = test_2.rename_column("Label", "labels")
 test_3 = test_3.rename_column("Label", "labels")
 
-# === Set torch format ===
 columns = ["input_ids", "attention_mask", "labels"]
 dataset_train.set_format("torch", columns=columns)
 dataset_valid.set_format("torch", columns=columns)
@@ -58,7 +50,6 @@ dataset["test_1"].set_format("torch", columns=columns)
 test_2.set_format("torch", columns=columns)
 test_3.set_format("torch", columns=columns)
 
-# === Metrics function ===
 def compute_metrics(p):
     preds = np.argmax(p.predictions, axis=1)
     labels = p.label_ids
@@ -66,7 +57,6 @@ def compute_metrics(p):
     precision, recall, f1, _ = precision_recall_fscore_support(labels, preds, average='weighted', zero_division=0)
     return {"accuracy": acc, "f1": f1, "precision": precision, "recall": recall}
 
-# === Training arguments ===
 training_args = TrainingArguments(
     output_dir="./bertic-our-group",
     evaluation_strategy="steps",
@@ -86,7 +76,6 @@ training_args = TrainingArguments(
     save_total_limit=2,
 )
 
-# === Trainer and early stopping ===
 trainer = Trainer(
     model=model,
     args=training_args,
@@ -97,10 +86,8 @@ trainer = Trainer(
     callbacks=[EarlyStoppingCallback(early_stopping_patience=2)],
 )
 
-# === Train the model ===
 trainer.train()
 
-# === Evaluation ===
 print("\nTraining Evaluation:")
 train_metrics = trainer.evaluate(dataset_train)
 for k, v in train_metrics.items():
@@ -121,11 +108,10 @@ test_2_metrics = trainer.evaluate(test_2)
 for k, v in test_2_metrics.items():
     print(f"{k}: {v:.4f}")
 
-print("\nTest Set 3 Evaluation (Group 3 - Us):")
+print("\nTest Set 3 Evaluation (Group 3):")
 test_3_metrics = trainer.evaluate(test_3)
 for k, v in test_3_metrics.items():
     print(f"{k}: {v:.4f}")
 
-# === Save the final model and tokenizer ===
 trainer.model.save_pretrained("bertic")
 tokenizer.save_pretrained("bertic")
